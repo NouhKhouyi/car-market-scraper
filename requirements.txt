@@ -1,0 +1,10 @@
+# App (buscador)
+pandas
+streamlit
+plotly
+requests
+beautifulsoup4
+
+# Scrapers
+selenium
+lxml

@@ -1,0 +1,1101 @@
+,Precio,Marca,Modelo,Versión,Combustible,Potencia (CV),Kilómetros,Carrocería,Año Matriculación,Cambio,Meses Garantía,Plazas,Puertas,Color exterior
+0,21900,Citroen,C4,PureTech 130 S&S 6v Shine,Gasolina,130.0,19000.0,Sedán / Berlina,2022.0,Manual 6 vls.,12.0,5.0,5.0,Blanco
+1,13600,Citroen,C3 Aircross,PureTech 81kW (110CV) S&S Feel,Gasolina,110.0,43210.0,Suv y 4x4,2018.0,Manual 6 vls.,12.0,5.0,5.0,Rojo
+2,12500,Fiat,500,1.0 Hybrid 51KW (70 CV) Connect,Gasolina,70.0,10522.0,Sedán / Berlina,2021.0,Manual 6 vls.,12.0,4.0,3.0,Blanco
+3,34900,Peugeot,3008,1.2 100KW eDCS6 Allure,Gasolina,136.0,1002.0,Suv y 4x4,2024.0,Automático 6 vls.,24.0,5.0,5.0,Azul
+4,19000,Citroen,C3 Aircross,PureTech 81kW (110CV) Plus,Gasolina,110.0,6920.0,Suv y 4x4,2024.0,Manual 6 vls.,24.0,5.0,5.0,Blanco
+5,15100,Opel,Corsa,1.2T XHL 74kW (100CV) GS-Line,Gasolina,100.0,14791.0,Sedán / Berlina,2022.0,Manual 6 vls.,12.0,5.0,5.0,Naranja
+6,32700,Citroen,C4,ë-C4 eléctrico 100kW 50kWh Feel Pack,Eléctrico,136.0,10.0,Sedán / Berlina,2024.0,Automático 1 vls.,24.0,5.0,5.0,Blanco
+7,19600,Citroen,C3 Aircross,PureTech 81kW (110CV) Plus,Gasolina,110.0,15025.0,Suv y 4x4,2024.0,Manual 6 vls.,24.0,5.0,5.0,Gris
+8,21000,DS,DS 3 Crossback,PureTech 96kW (130CV) Performance Line,Gasolina,130.0,47977.0,Suv y 4x4,2020.0,Automático 8 vls.,12.0,5.0,5.0,Blanco
+9,18700,Citroen,C3 Aircross,PureTech 81kW (110CV) S&S C-Series,Gasolina,110.0,16983.0,Suv y 4x4,2023.0,Manual 6 vls.,24.0,5.0,5.0,Gris
+10,15800,Citroen,C3 Aircross,BlueHDi 81kW (110CV) S&S Rip Curl,Diesel,110.0,78213.0,Suv y 4x4,2021.0,Manual 6 vls.,12.0,5.0,5.0,Negro
+11,21500,Opel,Grandland X,1.5 CDTi Auto Ultimate,Diesel,130.0,21313.0,Suv y 4x4,2020.0,Automático 8 vls.,12.0,5.0,5.0,Blanco
+12,18300,Peugeot,208,BlueHDi 73kW (100CV) Allure Pack,Diesel,100.0,23000.0,Sedán / Berlina,2023.0,Manual 6 vls.,24.0,5.0,5.0,Gris
+13,23400,Jeep,Avenger,1.2 G 74kW (100CV) Altitude,Gasolina,100.0,22027.0,Suv y 4x4,2024.0,Manual 6 vls.,24.0,5.0,5.0,Beige
+14,18900,Jeep,Compass,1.3 Gse T4 96kW (130CV) MT FWD Sport,Gasolina,130.0,28000.0,Suv y 4x4,2021.0,Manual 6 vls.,12.0,5.0,5.0,Blanco
+15,5800,Fiat,Panda,FIAT PANDA 1.2 POP 70CV DE MAYO 2012,Gasolina,70.0,167815.0,Pequeño o compacto,2012.0,Manual 5 vls.,0.0,5.0,5.0,Blanco
+16,5450,Opel,Combo,OPEL COMBO 1.3 CDTI 75CV DEL 4-11-2009 CON 153.661KM,Diesel,75.0,153661.0,Furgoneta / Camión,2009.0,Manual 5 vls.,0.0,2.0,5.0,Blanco
+17,4250,Fiat,Grande punto,FIAT GRANDE PUNTO EVO SPORT,Diesel,75.0,157000.0,Pequeño o compacto,2010.0,Manual 5 vls.,0.0,5.0,3.0,Azul
+18,9500,Renault,Kangoo,Furgón 1.5DCi 75 CV  12/2018,Diesel,75.0,135698.0,Furgoneta / Camión,2018.0,Manual 5 vls.,12.0,2.0,,Blanco
+19,15450,Land Rover,Range Rover Sport,RANGE ROVER SPORT HSE 3.0 V6 BITURBO 245CV,Diesel,245.0,1.0,Suv y 4x4,2011.0,Automático,12.0,5.0,5.0,Negro
+20,21900,Opel,Mokka,1.2 T 96kW (130 CV) GS Line,Gasolina,130.0,14822.0,Suv y 4x4,2022.0,Manual 6 vls.,12.0,5.0,5.0,Rojo
+21,35390,Volkswagen,ID.4,Pro Performance 204CV,Eléctrico,204.0,9090.0,Suv y 4x4,2022.0,Automático 6 vls.,24.0,5.0,5.0,Blanco
+22,13990,Peugeot,308,SW Business Line BlueHDi 120 SS 6 Vel. MAN ?6.2,Diesel,120.0,87658.0,Familiar,2017.0,Manual,0.0,,5.0,Azul
+23,35900,Audi,A3,SPORTBACK S LINE 1.5 TFSI S TRONIC 150CV 5P,Gasolina,150.0,34486.0,,2023.0,Automático,0.0,,5.0,Blanco
+24,39300,Volvo,XC40,2.0 B4 CORE AUTO 5P,Gasolina,197.0,5.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Plateado
+25,20990,Suzuki,S-Cross,"Nuevo Suzuki  1,4 S-2 Mild Hybrid AWD",Híbrido,,77727.0,Suv y 4x4,2022.0,Manual,0.0,,5.0,Gris
+26,22390,Hyundai,Tucson,1.6 CRDI 100KW STYLE DCT 2WD 136 5P,Diesel,136.0,94000.0,,2017.0,Automático,0.0,,5.0,Gris
+27,14890,Seat,Mii,Electric 61kW (83CV),Eléctrico,83.0,27800.0,,2020.0,Automático,0.0,,5.0,
+28,24000,Mercedes,Clase A,A 180 d,Diesel,115.0,99799.0,,2020.0,Manual,0.0,,5.0,Plateado
+29,22900,Alfa Romeo,Giulia,2.2 Diesel 210cv Veloce Q4,Diesel,210.0,,Sedán / Berlina,2017.0,Automático,0.0,,4.0,
+30,33900,Volvo,XC40,1.5 T2 CORE AUTO 5P,,129.0,19900.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Verde
+31,33800,Volvo,XC40,1.5 T4 RECHARGE INSCRIPTION EXP DCT 5P,Eléctrico,211.0,49185.0,Suv y 4x4,2021.0,Automático,0.0,,5.0,Azul
+32,25885,Citroen,C4,Nuevo C4 1.5 BlueHDi 130CV S&S FEEL PACK AUTO 5P,Diesel,130.0,17452.0,,2022.0,Automático,0.0,,5.0,Marrón
+33,34500,Kia,XCeed,1.5 MHEV GT-line 103kW (140CV)) DCT,Híbrido,140.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Gris
+34,15900,Opel,Corsa,ELEGANCE 1.2T XHL 100 CV AUTO 5P,Gasolina,100.0,51643.0,,2021.0,Automático,0.0,,5.0,Negro
+35,28900,Fiat,600,1.2 MHEV DCT LA PRIMA 100CV 5P,Híbrido,100.0,3488.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Verde
+36,11700,Ford,Focus,1.5 TDCI 88KW TREND+ 120 5P,Diesel,120.0,114620.0,Familiar,2017.0,Manual,0.0,,5.0,Azul
+37,31100,Ford,Kuga,2.5 PHEV ST-LINE X AUTO 225 5P,Híbrido,225.0,27978.0,Suv y 4x4,2022.0,Automático,0.0,,5.0,Blanco
+38,30900,Citroen,Berlingo,Talla XL BlueHDi 130 S&S Max,Diesel,130.0,6034.0,Monovolumen,2024.0,Manual,0.0,,5.0,Verde
+39,23650,Ford,Puma,1.0 ECOBOOST 92KW MHEV ST-LINE X 125 5P,Híbrido,125.0,10031.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Gris
+40,24700,Kia,Ceed,1.0 MHEV 74kW (100CV) Drive DCT,Híbrido,100.0,,,2024.0,Automático,0.0,,5.0,Blanco
+41,37850,Mitsubishi,Eclipse Cross,2.4 PHEV Kaiteki Auto 4WD,Híbrido,187.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Gris
+42,24788,Citroen,C4,Nuevo C4 1.5 BlueHDi 130CV S&S FEEL PACK AUTO 5P,Diesel,130.0,51271.0,,2022.0,Automático,0.0,,5.0,Blanco
+43,48390,Peugeot,3008,BEV 73KWH 157KW GT 214CV 5P,Eléctrico,214.0,1.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Azul
+44,27890,Nissan,Juke,1.6 HYBRID HEV 105KW N-DESIGN BLACK A 143 5P,Híbrido,143.0,11427.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Gris
+45,9900,Opel,Corsa,EXPRESSION 1.4 90CV 5P,,90.0,96035.0,Suv y 4x4,2016.0,Manual,0.0,,5.0,Gris
+46,30900,Opel,Grandland X,Grandland GS 1.2T HYBRID 136CV DCT6,Híbrido,136.0,1745.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Rojo
+47,57895,Lexus,RX 450H,BUSINESS 3.5 HYBRID 313 CV AUTO 5P 4WD,Híbrido,313.0,48000.0,Suv y 4x4,2022.0,Automático,0.0,,5.0,Gris
+48,23990,Kia,XCeed,1.0 T-GDi Drive 74kW (100CV),Gasolina,100.0,,Suv y 4x4,2024.0,Manual,0.0,,5.0,Gris
+49,24900,Subaru,XV,1.6 I CVT 114cv SPORT PLUS,Gasolina,114.0,20500.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Blanco
+50,12990,Fiat,500,1.0 Hybrid 51kw (70CV) Dolcevita,Híbrido,,35448.0,,2023.0,Manual,0.0,,3.0,Gris
+51,31290,Citroen,Berlingo,ë- BEV 50KWH TALLA M LIVE PACK AUTO 136 4P,Eléctrico,136.0,11455.0,,2023.0,Automático,0.0,,4.0,Blanco
+52,26995,Nissan,Juke,1.6 Hybrid N-Connecta Auto 105 kW (143 CV),Híbrido,143.0,10.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Blanco
+53,39900,Kia,EV3,BEV EARTH AUTO 204CV 5P,Eléctrico,204.0,1471.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Blanco
+54,39490,Mercedes,GLC,GLC MERCEDES-BENZ  250 4Matic Aut.,,,69608.0,Suv y 4x4,2020.0,Automático,0.0,,5.0,Bronce
+55,31875,Mazda,CX-5,e-SKY G MHEV 2.0 121kW Center-Line Plus,Híbrido,164.0,,Suv y 4x4,2024.0,Manual,0.0,,5.0,Azul
+56,36250,Ford,Kuga,2.5 PHEV ST-LINE X AUTO 225 5P,Híbrido,225.0,34563.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Rojo
+57,26500,Peugeot,2008,ALLURE PACK 1.2 PURETECH 130CV S&S MAN,Gasolina,130.0,716.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Oro
+58,15990,Peugeot,208,Nuevo  5P Allure Puretech 100 S&S 6 Vel. MAN,,,8242.0,,2023.0,Manual,0.0,,5.0,Gris
+59,27580,Mazda,CX-30,2.5L e-SKYACT G MHEV 103kW Prime-Line MT,Híbrido,140.0,,Suv y 4x4,2024.0,Manual,0.0,,5.0,Blanco
+60,15500,Peugeot,208,Puretech 75 Active,Gasolina,75.0,10.0,,2024.0,Manual,0.0,,5.0,Blanco
+61,25800,OMODA,5,5 PREMIUM 185CV,Gasolina,185.0,340.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Azul
+62,22800,Mazda,MX-30,36KWH E-SKYACTIV MAKOTO MODERN AUTO 145 5P,Eléctrico,145.0,12250.0,Suv y 4x4,2022.0,Automático,0.0,,5.0,Gris
+63,22490,Kia,Ceed,1.6 MHEV iMT 100kW 136CV Drive 5p Diesel,Híbrido,136.0,25372.0,,2023.0,Manual,0.0,,5.0,Blanco
+64,13490,Ford,Fiesta,1.1 IT-VCT 55kW (75CV) Trend 5p,Gasolina,75.0,29490.0,,2022.0,Manual,0.0,,5.0,Rojo
+65,32190,Peugeot,2008,N2008 First Edition Eléctrico 156 (115 Kw),Eléctrico,156.0,17952.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Blanco
+66,22490,Citroen,Berlingo,Nuevo Talla M BlueHDi 100 SS 6v YOU N1,Diesel,102.0,10.0,Monovolumen,2024.0,Manual,0.0,,4.0,Blanco
+67,53990,Kia,Sorento,Nuevo PHEV DRIVE 4X4 MY23,Híbrido,,10.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Azul
+68,28486,Ford,Focus,1.0 Ecoboost MHEV 92kW Active,Híbrido,125.0,,,2024.0,Manual,0.0,,5.0,Blanco
+69,19950,Audi,A3,S LINE EDITION SPORTBACK 1.8 TFSI 180 CV 5P,,180.0,80000.0,Suv y 4x4,2016.0,Manual,0.0,,5.0,Rojo
+70,35500,Volvo,XC40,2.0 B3 CORE AUTO 5P,Gasolina,163.0,10249.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Negro
+71,37399,Kia,EV3,Air Long Range,Eléctrico,204.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Blanco
+72,37500,Kia,Sportage,1.6 T-GDI PHEV DRIVE 4WD AUTO 265 5P,Híbrido,265.0,11.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Negro
+73,35700,Opel,Combo,-E LIFE ELEGANCE PLUS BEV 50KWH 136CV 5P,Eléctrico,136.0,5.0,Monovolumen,2023.0,Automático,0.0,,5.0,Negro
+74,12790,Fiat,500,1.0 Hybrid 51kw (70CV) Dolcevita,Híbrido,,43401.0,,2023.0,Manual,0.0,,3.0,Negro
+75,22900,Peugeot,308,5P PureTech 130 S&S EAT8 Allure Pack,Gasolina,130.0,12257.0,,2023.0,Automático,0.0,,5.0,Azul
+76,39600,Peugeot,508,SW GT 1.6 HYBRID 225CV EAT8,Híbrido,225.0,10300.0,Familiar,2022.0,Automático,0.0,,5.0,Oro
+77,16500,Opel,Corsa,Edition 1.2T XEL MT5 S/S 75 CV (55kW),Gasolina,55.0,11493.0,,2023.0,Manual,0.0,,5.0,Blanco
+78,27875,Nissan,Juke,1.6 HYBRID HEV 105KW N-DESIGN BLACK A 143 5P,Híbrido,143.0,16325.0,,2023.0,Automático,0.0,,5.0,Blanco
+79,25900,Jeep,Compass,1.6 Mjet 130cv FWD Limited,Diesel,130.0,,Suv y 4x4,2022.0,Manual,0.0,,5.0,
+80,17990,Opel,Combo,Cargo 1.5TD SS L 650 Express 100,Diesel,102.0,53000.0,,2022.0,Manual,0.0,,3.0,Blanco
+81,13600,Opel,Corsa,1.2T XHL 74kW (100CV) GS,Gasolina,100.0,31673.0,,2022.0,Manual,0.0,,5.0,Blanco
+82,71950,Voyah,Free,107kW Luxury MY24,Eléctrico,489.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Blanco
+83,17390,Volkswagen,Polo,Sport 1.0 TSI 70kW (95CV),Gasolina,95.0,57500.0,,2020.0,Manual,0.0,,5.0,Rojo
+84,20500,Kia,Stonic,STYLE EDITION 1.0 T-GDI MHEV 100 CV 5P,Híbrido,100.0,15669.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Gris
+85,13990,Fiat,500,1.0 HYBRID DOLCEVITA 70 3P,Híbrido,,26387.0,,2022.0,Manual,0.0,,,Blanco
+86,10900,Citroen,Berlingo,FG CONTROL 1.5 BLUEHDI 100 CV TALLA M 3P,Diesel,102.0,106906.0,Monovolumen,2020.0,Manual,0.0,,3.0,Blanco
+87,25300,Peugeot,508,5P Allure Pack BlueHDi 130 SS EAT8,Diesel,130.0,22252.0,,2022.0,Automático,0.0,,5.0,Azul
+88,30995,Nissan,Juke,1.6 Hybrid Tekna 105 kW (143 CV),Híbrido,143.0,10.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Gris
+89,20600,Volkswagen,Polo,LIFE 1.0 TSI 95 CV DSG 5P,Gasolina,95.0,33390.0,,2023.0,Automático,0.0,,5.0,Gris
+90,53900,Volvo,XC 60,XC60 2.0 T6 RECHARGE PLUS DARK AUTO 4WD 5P,Híbrido,350.0,22000.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Gris
+91,16900,Opel,Corsa-e,Corsa -E ELEGANCE-E 136 CV 50KWH 5P,Eléctrico,136.0,53248.0,,2020.0,Automático,0.0,,5.0,Blanco
+92,31700,Jeep,Compass,1.5 MHEV 96KW NIGHT EAGLE FWD DDCT 130 5P,Híbrido,,1.0,Suv y 4x4,2024.0,Automático,0.0,,,Rojo
+93,50900,Ford,Explorer,Nuevo  BEV 77KWH 210KW PREMIUM ER 286CV 5P,Eléctrico,286.0,10.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Azul
+94,43624,Alfa Romeo,Tonale,1.3 Multi-air PHEV Q4 Sprint,Híbrido,280.0,1.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Blanco
+95,41490,Volvo,V 60,"V60 CROSS COUNTRY , B4 AWD mild hybrid",Híbrido,197.0,35663.0,Familiar,2021.0,Automático,0.0,,5.0,Blanco
+96,25900,Subaru,XV,2.0 Hybrid CVT 150cv EXECUTIVE PLUS,Híbrido,150.0,53400.0,Sedán / Berlina,2020.0,Automático,0.0,,5.0,Rojo
+97,27885,Citroen,Berlingo,ELECTRIC FEEL 67CV 5P MANUAL,Eléctrico,67.0,18790.0,Monovolumen,2018.0,Automático,0.0,,5.0,Blanco
+98,36500,Nissan,Townstar,COMFORT - FURGÓN 2P 45KWH - 90KW (122CV) L1 E6D-FULL,Eléctrico,,,Monovolumen,2024.0,Automático,0.0,,,Blanco
+99,24700,Kia,Ceed,1.0 MHEV 74kW (100CV) Drive DCT,Híbrido,100.0,,,2024.0,Automático,0.0,,5.0,Blanco
+100,32950,Ford,Kuga,1.5 ECOBOOST 110KW ST-LINE X 150CV 5P,Gasolina,150.0,17900.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Plateado
+101,19750,Citroen,C3 Aircross,PureTech 81kW (110CV) Plus,Gasolina,110.0,2500.0,Suv y 4x4,2024.0,Manual,0.0,,5.0,Gris
+102,19990,Kia,XCeed,Nuevo 1.0 T-GDi Drive 120CV (MY24),Gasolina,,12394.0,Suv y 4x4,2024.0,Manual,0.0,,5.0,Blanco
+103,22990,Opel,Grandland X,Grandland GS 1.2T XHT MT6 S/S 130 CV (96kW),,,10.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Azul
+104,22990,Mazda,Mazda2 Hybrid,2 HYBRID 1.5 116CVT AGILE COMFORT,Híbrido,116.0,12432.0,,2023.0,Automático,0.0,,5.0,Blanco
+105,21500,Opel,Corsa,1.2T XHL Hybrid 74kW eDCT #Yes,Híbrido,100.0,10.0,,2024.0,Automático,0.0,,5.0,Gris
+106,46490,Cupra,Formentor,2.5 TSI 287kW (390 CV) VZ5 4Drive DSG,Gasolina,390.0,42000.0,Suv y 4x4,2022.0,Automático,0.0,,5.0,
+107,25600,Nissan,Qashqai,DIG-T 103kW (140CV) mHEV 4x2 Tekna,Híbrido,140.0,43000.0,Suv y 4x4,2022.0,Manual,0.0,,5.0,Blanco
+108,28900,Ssangyong,Korando,E-MOTION LIMITED 190 CV 62 KHW 5P,Eléctrico,190.0,20.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Blanco
+109,22600,Peugeot,3008,N3008 ALLURE PACK 1.2 PURETECH 130 CV 5P,,130.0,10230.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Blanco
+110,15500,Peugeot,208,Puretech 75 Active,Gasolina,75.0,10.0,,2024.0,Manual,0.0,,5.0,Blanco
+111,27500,Mini,Countryman,Cooper S E ALL4,Eléctrico,220.0,56360.0,,2021.0,Automático,0.0,,5.0,Verde
+112,38800,Opel,Astra PHEV,5P ELECTRIC GS 156CV 115KW,Híbrido,180.0,5.0,,2023.0,Automático,0.0,,5.0,Blanco
+113,39700,Kia,e-Niro,150kW (204CV) Winter Edition,Eléctrico,204.0,,,2024.0,Automático,0.0,,5.0,Blanco
+114,25000,Suzuki,S-Cross,1.4T S1 Mild Hybrid,Híbrido,129.0,,Suv y 4x4,2024.0,Manual,0.0,,5.0,Blanco
+115,22289,Mazda,Mazda2 Hybrid,1.5 85 kW (116 CV) CVT Centre-line,Híbrido,115.0,,,2024.0,Automático,0.0,,5.0,Gris
+116,33907,Ford,Kuga,Titanium 1.5T EcoBoost 110kW (150CV),,149.0,,Suv y 4x4,2024.0,Manual,0.0,,5.0,Verde
+117,34500,Jeep,Avenger,BEV 54KWH AVENGER 156 5P,Eléctrico,,1.0,Suv y 4x4,2024.0,Automático,0.0,,,
+118,28390,Volvo,S60,T4 Business Plus Auto,Gasolina,,35151.0,,2020.0,Automático,0.0,,4.0,Plateado
+119,30955,Toyota,C-HR,SUV 1.8 HEV HYBRID ADVANCE CVT 140 5P,Híbrido,140.0,10000.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Gris
+120,53800,DS,DS 7 Crossback,7 E-TENSE 4X4 360 OPERA,Híbrido,,1.0,Suv y 4x4,2024.0,Automático,0.0,,,Gris
+121,25800,Citroen,C5 Aircross Hybrid,1.6 HYBRID 225 SHINE AUTO 225 5P,Híbrido,225.0,70144.0,Suv y 4x4,2021.0,Automático,0.0,,5.0,Blanco
+122,13990,Fiat,500,1.0 HYBRID DOLCEVITA 70 3P,Híbrido,70.0,23966.0,,2022.0,Manual,0.0,,,Blanco
+123,26990,Mazda,CX-30,(2021) e-SKYACTIV-X 2.0 186CV MT 2WD ZENITH,Gasolina,186.0,46400.0,,2022.0,Manual,0.0,,5.0,Rojo
+124,24810,Citroen,C3 Aircross,Hybrid 136 ë-DCS6 YOU PACK PLUS,Híbrido,136.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Blanco
+125,18990,Jeep,Renegade,1.0G MT6 120cv 4x2 Limited,Gasolina,120.0,,Suv y 4x4,2022.0,Manual,0.0,,5.0,Gris
+126,23990,Opel,Grandland X,Grandland GS 1.5CDTi SS AT8 130 cv,Diesel,130.0,11424.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Blanco
+127,16500,Citroen,C3,Puretech 110cv S&S EAT6 FEEL PACK,Gasolina,110.0,23500.0,,2022.0,Automático,0.0,,5.0,Blanco
+128,17990,Peugeot,2008,SUV GT Puretech 130 S&S 6 Vel. MAN.,Gasolina,,52371.0,Suv y 4x4,2021.0,Manual,0.0,,5.0,Blanco
+129,20500,Citroen,C3 Aircross,1.5 BLUEHDI 81KW S&S C-SERIES 110 5P,Diesel,110.0,41059.0,Suv y 4x4,2022.0,Manual,0.0,,5.0,Negro
+130,11700,Ford,Focus,1.5 TDCI 88KW TREND+ 120 5P,Diesel,120.0,114620.0,Familiar,2017.0,Manual,0.0,,5.0,Azul
+131,44900,Nissan,Ariya,BEV 87KWH EVOLVE 22KW CHAR 242CV 5P,Eléctrico,242.0,10.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Negro
+132,16500,Citroen,C3,BlueHDi 75KW (100CV) Plus,Diesel,102.0,1526.0,,2024.0,Manual,0.0,,5.0,Blanco
+133,42490,Mercedes,GLC,GLC 220 d 4MATIC,Diesel,194.0,74187.0,Suv y 4x4,2021.0,Automático,0.0,,5.0,Blanco
+134,18900,Kia,Ceed,DRIVE 1.0 T-GDI 120 CV 5P,Gasolina,120.0,21819.0,,2023.0,Manual,0.0,,5.0,Blanco
+135,28995,Nissan,Qashqai,1.3 DIG-T MHEV N-CONNECTA 140CV 5P,Híbrido,140.0,10420.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Gris
+136,18778,Suzuki,Swift,1.2 S1 Mild Hybrid,Híbrido,82.0,,,2024.0,Manual,0.0,,5.0,Blanco
+137,14980,Peugeot,2008,1.2 PURETECH 81KW ALLURE 110 5P,Gasolina,110.0,77136.0,Suv y 4x4,2018.0,Manual,0.0,,5.0,Blanco
+138,32990,Kia,EV6,BEV 77KWH 168KW AIR RWD AUTO 229 5P,Eléctrico,229.0,18955.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Gris
+139,21000,Mini,Cooper,1.5 GASOLINA 136CV AUTO 5P,,136.0,49695.0,Suv y 4x4,2022.0,Automático,0.0,,5.0,Azul
+140,25500,Peugeot,Rifter,1.2 PureTech 110cv Active Pack Standard,Gasolina,110.0,,,2021.0,Manual,0.0,,5.0,Blanco
+141,10990,Peugeot,308,5P Style BlueHDi 130 S&S 6Vel. MAN,Diesel,,144759.0,,2018.0,Manual,0.0,,5.0,Azul
+142,23500,MG,HS,1.5T-GDI COMFORT DCT 162 5P,Gasolina,162.0,17662.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Azul
+143,27727,Ford,Puma,1.0 EcoBoost 125cv Titanium MHEV,Híbrido,125.0,,Suv y 4x4,2024.0,Manual,0.0,,5.0,Azul
+144,8368,Citroen,AMI,BEV MY AMI Cargo 8CV 3P 6KW,Eléctrico,8.0,2100.0,,2022.0,Automático,0.0,,3.0,Azul
+145,37295,Alfa Romeo,Stelvio,SPRNT 2.2JTDM 190CV Q4,Diesel,,24300.0,Suv y 4x4,2022.0,Automático,0.0,,,Rojo
+146,14990,Fiat,500,1.0 MHEV DOLCEVITA 70 3P,Híbrido,70.0,13908.0,,2023.0,Manual,0.0,,,Gris
+147,37900,Kia,e-Niro,EMOTION 204 CV (PACK LUXURY) 5P,Eléctrico,204.0,9660.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Verde
+148,37990,Volvo,XC40,1.5 T4 Recharge PHEV Plus Bright Auto,Híbrido,211.0,17656.0,Suv y 4x4,2022.0,Automático,0.0,,5.0,Negro
+149,34484,Citroen,C5 Aircross,1.5 BLUEHDI 131CV S&S SHINE PACK AUTO 5P,Diesel,131.0,61478.0,Suv y 4x4,2022.0,Automático,0.0,,5.0,Blanco
+150,15490,Jeep,Renegade,1.0G 120cv 4x2 Longitude,Gasolina,120.0,,Suv y 4x4,2020.0,Manual,0.0,,5.0,Negro
+151,14800,Kia,Stonic,1.0 T-GDI 74KW CONCEPT 100CV 5P,Gasolina,100.0,54130.0,Suv y 4x4,2018.0,Manual,0.0,,5.0,Blanco
+152,29800,Citroen,Berlingo,Talla XL BlueHDi 130 S&S PLUS,Diesel,130.0,,Monovolumen,2024.0,Manual,0.0,,4.0,Gris
+153,16900,Citroen,C3 Aircross,BlueHDi 81kW (110CV) S&S Feel Pack,Diesel,110.0,14392.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Gris
+154,31538,Mazda,CX-30,e-SKYACTIV X MHEV 137kW Centre-Line,Híbrido,186.0,,Suv y 4x4,2024.0,Manual,0.0,,5.0,Blanco
+155,38990,Volkswagen,Tiguan,Allspace Sport 2.0 TDI 147kW (200CV) 4Motion DSG,Diesel,200.0,65600.0,Suv y 4x4,2021.0,Automático,0.0,,5.0,Gris
+156,35900,Opel,Mokka-e,Mokka -E ULTIMATE BEV 136CV,Eléctrico,136.0,20000.0,Suv y 4x4,2021.0,Automático,0.0,,5.0,Verde
+157,48790,Opel,Astra Electric,BEV 54KW GS AUTO 156 5P,Eléctrico,156.0,9900.0,,2023.0,Automático,0.0,,5.0,Blanco
+158,39950,Audi,Q3,BLACK LINE 2.0 35 TDI S TRONIC 150CV 5P,Diesel,150.0,53604.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Blanco
+159,20900,Kia,Sportage,DRIVE 1.6 GDI 132 CV 2WD 5P,Gasolina,132.0,53850.0,Suv y 4x4,2022.0,Manual,0.0,,5.0,Gris
+160,25890,Seat,Leon,SP 2.0 TDI 110kW DSG S&S FR,Diesel,150.0,18800.0,Familiar,2023.0,Automático,0.0,,5.0,
+161,26200,Peugeot,508,5P BlueHDi 130 S&S EAT8 Allure Pack,Diesel,130.0,19542.0,,2023.0,Automático,0.0,,5.0,Gris
+162,32000,Mitsubishi,Asx,160 HEV Kaiteki,Híbrido,142.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Rojo
+163,14300,Opel,Corsa,1.2 XEL 55kW (75CV) Edition,Gasolina,75.0,14464.0,,2023.0,Manual,0.0,,5.0,Gris
+164,26264,OMODA,5,MY25 - Comfort 1.6 TGDI 108kW (145cv),,146.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Negro
+165,10900,Fiat,Tipo,5P 1.4 Fire 70kW (95CV) Pop,Gasolina,95.0,78713.0,,2020.0,Manual,0.0,,5.0,Blanco
+166,22995,Nissan,X Trail,X-Trail DIG-T 160 N-Connecta 4x2 117 kW (160 CV),Gasolina,160.0,43853.0,Suv y 4x4,2020.0,Automático,0.0,,5.0,Blanco
+167,40590,Honda,ZR-V,SPORT 2.0I-MMD AT SIN A/M,Híbrido,135.0,6976.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Azul
+168,17900,EVO,EVO 3,1.5 -,Gasolina,113.0,1.0,Suv y 4x4,2024.0,Manual,0.0,,5.0,Rojo
+169,18000,Mercedes,Vito,1.7 CDI 110CDI TD SWB MIXTO COMPACT 102CV 4P,Diesel,102.0,84572.0,Monovolumen,2020.0,Manual,0.0,,4.0,Blanco
+170,21990,Peugeot,2008,Puretech 100cv S&S 6 Vel. MAN Active,Gasolina,100.0,,Suv y 4x4,2024.0,Manual,0.0,,5.0,
+171,13490,Fiat,500,1.0 Hybrid 51kw (70CV) Dolcevita,Híbrido,,39650.0,,2023.0,Manual,0.0,,3.0,Azul
+172,14900,Peugeot,2008,PureTech 130 S&S Allure 96 kW (130 CV),Gasolina,130.0,25000.0,Suv y 4x4,,Manual,0.0,,5.0,Blanco
+173,36300,Peugeot,2008,ALLURE PACK ELECTRIC 136CV 5P,Eléctrico,136.0,4918.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Oro
+174,35490,Kia,EV6,"GT-LINE RWD L.RANGE MY23 229 Cv 77,4 Kwh 528 Kms (WLTP)",Eléctrico,229.0,54434.0,Suv y 4x4,2022.0,Automático,0.0,,5.0,Negro
+175,17500,Opel,Corsa,1.2T XHL 74kW (100CV) #Yes,Gasolina,100.0,10.0,,2024.0,Manual,0.0,,5.0,Rojo
+176,31695,Lexus,UX,250H BUSINESS 2.0 HYBRID 184 CV AUTO 5P,Híbrido,184.0,15305.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Blanco
+177,31990,Kia,Niro,1.6 GDI PHEV DRIVE 183CV 5P,Híbrido,183.0,17145.0,,2023.0,Automático,0.0,,5.0,Gris
+178,48990,BYD,Seal,Excellence AWD,Eléctrico,530.0,,Sedán / Berlina,2024.0,Automático,0.0,,4.0,Gris
+179,27500,Ford,Kuga,1.5 ECOBLUE 88KW ST-LINE 120 5P,Diesel,120.0,44167.0,,2022.0,Manual,0.0,,5.0,Blanco
+180,31500,Opel,Corsa-e,Corsa -e Elegance-e BEV 50kWh 136 CV (100kW),Eléctrico,136.0,1178.0,,2023.0,Automático,0.0,,5.0,Blanco
+181,29490,Jeep,Avenger,1.2 eHybrid 74kW (100CV) Altitude,Híbrido,100.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Amarillo
+182,41495,Lexus,ES,250H EXECUTIVE 2.0 HYBRID 184 CV AUTO 5P,Híbrido,184.0,5103.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Gris
+183,13390,Peugeot,2008,1.2 PURETECH 96KW ALLURE 130 5P,Gasolina,130.0,54816.0,Suv y 4x4,2018.0,Manual,0.0,,5.0,Blanco
+184,16690,Opel,Corsa,Nuevo GS 1.2T XHL MT6 S/S 100 CV (74kW),Gasolina,,7321.0,,2024.0,Manual,0.0,,5.0,Negro
+185,38900,Volvo,XC40,2.0 B3 CORE AUTO 5P,,163.0,5.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Negro
+186,12900,Fiat,Panda,Hybrid 1.0 Gse 51kw (70CV) City Life,Gasolina,70.0,4490.0,,2022.0,Manual,0.0,,5.0,Blanco
+187,32750,Mitsubishi,Eclipse Cross,2.4 PHEV Motion Auto 4WD,Híbrido,187.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Rojo
+188,24250,Ford,Puma,1.0 EcoBoost 125cv Titanium MHEV,Híbrido,125.0,,Suv y 4x4,2024.0,Manual,0.0,,5.0,Gris
+189,23500,MG,HS,1.5T-GDI LUXURY 162 5P,Gasolina,162.0,11925.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Gris
+190,30200,Peugeot,3008,ACTIVE PACK 1.5 BLUEHDI 130CV EAT8,Diesel,130.0,25680.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Plateado
+191,19990,Suzuki,Swift,1.2 GLE Mild Hybrid CVT Auto,Híbrido,,10.0,,2024.0,Automático,0.0,,5.0,Gris
+192,27840,Nissan,Qashqai,Nuevo Qashqai 5p DIG-T E6D (140 CV) mHEV 12V 6M/T 4x2 N-Connecta,Híbrido,140.0,12377.0,Suv y 4x4,2022.0,Manual,0.0,,5.0,Blanco
+193,37200,Alfa Romeo,Stelvio,SPRINT 2.2 JTDM 160CV,Diesel,,26900.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Gris
+194,50950,Ford,Mustang Mach-E,BEV 99KWH 351PS AWD AUTO EXTENDED RANGE 351 5P,Eléctrico,351.0,11853.0,Suv y 4x4,2022.0,Automático,0.0,,5.0,Rojo
+195,31500,Mazda,CX-5,CENTER LINE PLUS 2.0 G MHEV 165CV 5P,Híbrido,165.0,1.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Blanco
+196,31000,BMW,X3,xDrive20d,Diesel,190.0,122000.0,Suv y 4x4,2020.0,Automático,0.0,,5.0,Blanco
+197,22700,Kia,Ceed,1.0 T-GDi 74kW (100CV) Drive,Gasolina,100.0,,,2024.0,Manual,0.0,,5.0,Blanco
+198,14990,Opel,Corsa,Nuevo GS 1.2T XHL MT6 S.S 100 CV (74kW),Gasolina,,24586.0,,2024.0,Manual,0.0,,5.0,Gris
+199,36900,Kia,Niro,1.6 GDI PHEV DRIVE 183 5P,Híbrido,183.0,25729.0,,2023.0,Automático,0.0,,5.0,Negro
+200,13400,Opel,Crossland X,CROSSLAND EDITION X 1.2 110CV 5P,,110.0,57656.0,Suv y 4x4,2021.0,Manual,0.0,,5.0,Gris
+201,24700,Peugeot,2008,ACTIVE PACK 1.2 PURETECH 130CV S&S 5P,Gasolina,130.0,16965.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Plateado
+202,34300,Peugeot,3008,ALLURE 1.2 MHEV HYBRID 136CV EDCS6 5P,Híbrido,136.0,9230.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Azul
+203,24200,Peugeot,2008,ALLURE PACK 1.2 PURETECH 100CV S&S MAN,Gasolina,100.0,19055.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Plateado
+204,34887,Citroen,C5 Aircross Hybrid,1.6 PHEV 180 FEEL PACK AUTO 180 5P,Híbrido,180.0,1.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Gris
+205,20900,Peugeot,3008,ALLURE 1.2 PURETECH 130CV S&S 5P,,130.0,54949.0,Suv y 4x4,2019.0,Manual,0.0,,5.0,Gris
+206,40100,Opel,Mokka-e,BEV 50kWh 100kW (136CV) GS-e,Eléctrico,136.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Negro
+207,25490,Suzuki,Vitara,1.4 T GLE Mild Hybrid 5p 129 cv AWD,Híbrido,129.0,10.0,Suv y 4x4,2024.0,Manual,0.0,,5.0,Blanco
+208,38200,Peugeot,Rifter,GT STANDARD L1 BEV 136CV 5P,Eléctrico,136.0,2480.0,Monovolumen,2023.0,Automático,0.0,,5.0,Azul
+209,21500,Kia,XCeed,1.6 GDI PHEV ETECH 141CV 5P,Híbrido,141.0,29271.0,Suv y 4x4,2021.0,Automático,0.0,,5.0,Rojo
+210,10990,Peugeot,108,1.0 VTI 52KW ACTIVE 72CV 5P,Gasolina,72.0,65816.0,,2022.0,Manual,0.0,,5.0,Rojo
+211,41990,Honda,CR-V,ELEGANCE NAVI 2.0 I-MMD 184CV CVT 5P,Híbrido,184.0,16768.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Blanco
+212,27850,Nissan,Juke,1.6 HYBRID HEV TEKNA AUTO 143 5P,Híbrido,143.0,19969.0,Suv y 4x4,2022.0,Automático,0.0,,5.0,Gris
+213,22290,Kia,Ceed,1.6 MHEV iMT 100kW 136CV Drive 5p Diesel,Híbrido,,19696.0,,2023.0,Manual,0.0,,5.0,Plateado
+214,15894,Citroen,C3,Puretech 83CV S&S FEEL PACK 61KW MANUAL 5P,Gasolina,83.0,20651.0,,2021.0,Manual,0.0,,5.0,Negro
+215,32480,Alfa Romeo,Junior,100kW (136CV) Ibrida Speciale,Híbrido,136.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,
+216,22500,Audi,A3,SPORTBACK 1.0 30 TFSI 116CV 5P,,116.0,75155.0,Suv y 4x4,2020.0,Manual,0.0,,5.0,Negro
+217,25000,BMW,Serie 1,118d,Diesel,149.0,83956.0,,2022.0,Manual,0.0,,5.0,Blanco
+218,18900,EVO,EVO 5,1.6 -,Gasolina,127.0,1.0,Suv y 4x4,2024.0,Manual,0.0,,5.0,Azul
+219,15980,Opel,Grandland X,1.2 TURBO ULTIMATE 130CV 5P,Gasolina,130.0,46941.0,,2019.0,Manual,0.0,,5.0,Gris
+220,14300,Fiat,Panda,CITY LIFE 1.0 HYBRID 70CV MY23,Híbrido,70.0,13052.0,,2023.0,Manual,0.0,,5.0,Gris
+221,14900,Seat,Ibiza,1.0 TSI 81kW (110CV) Style Plus,Gasolina,110.0,76542.0,,2022.0,Manual,0.0,,5.0,Blanco
+222,25550,Ford,Kuga,1.5 ECOBLUE 88KW ST-LINE 120 5P,Diesel,120.0,39091.0,,2022.0,Manual,0.0,,5.0,Rojo
+223,31740,Nissan,Townstar,BEV 45KWH COMFORT 2-SEATS 122 4P,Eléctrico,122.0,8275.0,Monovolumen,2022.0,Automático,0.0,,4.0,Blanco
+224,24250,Ford,Focus,1.0 Ecoboost MHEV 92kW ST-Line,Híbrido,125.0,,,2024.0,Manual,0.0,,5.0,Rojo
+225,17858,Citroen,C3,Puretech 83 S&S Feel Pack,Gasolina,83.0,50001.0,,2021.0,Manual,0.0,,5.0,Gris
+226,25350,Ford,Puma,1.0 ECOBOOST 92KW MHEV ST-LINE DCT 125 5P,Híbrido,125.0,6500.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Azul
+227,9700,Peugeot,308,1.2 PURETECH 96KW ACTIVE 130CV 5P,Gasolina,130.0,128045.0,,2016.0,Manual,0.0,,5.0,Azul
+228,28050,Ford,Kuga,1.5 ECOBOOST 110KW ST-LINE X 150 5P,Gasolina,150.0,18171.0,Suv y 4x4,2022.0,Manual,0.0,,5.0,Rojo
+229,19900,Honda,Civic,ELEGANCE NAV 1.0 I-VTEC 129 CV 5P,Gasolina,129.0,38815.0,,2019.0,Manual,0.0,,5.0,Negro
+230,25990,Mazda,CX-30,(2022) e-SKYACTIV-G 2.0 150CV MT HOMURA,Híbrido,150.0,36668.0,Suv y 4x4,2022.0,Manual,0.0,,5.0,Blanco
+231,26900,Fiat,500X,1.5 Hybrid 97kW (130cv) DCT Red,Híbrido,130.0,5660.0,Suv y 4x4,2022.0,Automático,0.0,,5.0,Negro
+232,23150,Ford,Puma,1.0 ECOBOOST 92KW MHEV ST-LINE 125 5P,Híbrido,125.0,728.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Azul
+233,17858,Citroen,C3,Puretech 83 S&S Feel Pack,Gasolina,83.0,50001.0,,2021.0,Manual,0.0,,5.0,Gris
+234,41500,Alfa Romeo,Tonale,1.5 MHEV GASOLINA 160 CV FWD Speciale,Híbrido,160.0,10.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Gris
+235,34484,Citroen,C5 Aircross,1.5 BLUEHDI 131CV S&S SHINE PACK AUTO 5P,Diesel,131.0,61478.0,Suv y 4x4,2022.0,Automático,0.0,,5.0,Blanco
+236,31900,Hyundai,Kona Electric,Kona EV Maxx 150 kW (204 CV),Eléctrico,204.0,23200.0,Suv y 4x4,,Automático,0.0,,5.0,Rojo
+237,28500,Hyundai,Tucson,N LINE 1.6 TGDI 150CV 30 ANIVERSARIO 5P,,150.0,21911.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Gris
+238,23390,Kia,Ceed,1.0 T-GDI 88KW TECH 120 5P,Gasolina,120.0,17.0,,2024.0,Manual,0.0,,5.0,Gris
+239,23100,Citroen,C4,PURETECH 130 S&S Plus,Gasolina,130.0,15.0,Sedán / Berlina,2024.0,Manual,0.0,,5.0,Gris
+240,20900,Kia,Sportage,DRIVE 1.6 GDI 132 CV 2WD 5P,Gasolina,132.0,52974.0,Suv y 4x4,2022.0,Manual,0.0,,5.0,Gris
+241,22800,Mazda,MX-30,36KWH E-SKYACTIV MAKOTO MODERN AUTO 145 5P,Eléctrico,145.0,12250.0,Suv y 4x4,2022.0,Automático,0.0,,5.0,Gris
+242,30000,Nissan,Townstar,5 plazas 1.3G 96kW L1 N-Connecta,Gasolina,130.0,,,2024.0,Manual,0.0,,5.0,Gris
+243,12790,Fiat,500,1.0 Hybrid 51kw (70CV) Dolcevita,Híbrido,,45815.0,,2023.0,Manual,0.0,,3.0,Blanco
+244,23990,Kia,Niro,BEV 64KWH E-NIRO EMOTION 204 5P,Eléctrico,204.0,33543.0,,2022.0,Automático,0.0,,5.0,Gris
+245,21990,Kia,Ceed,1.6 MHEV iMT 100kW 136CV Drive 5p Diesel,Híbrido,,24829.0,,2023.0,Manual,0.0,,5.0,Negro
+246,19900,Audi,A4,AVANT ADVANCED EDITION 2.0 TDI 190 CV 5P,Diesel,190.0,133382.0,Familiar,2018.0,Automático,0.0,,5.0,Gris
+247,16990,Opel,Astra,1.6 CDTI 100KW INNOVATION S/S SW 136CV,Diesel,136.0,95550.0,Familiar,2019.0,Manual,0.0,,5.0,Negro
+248,21750,Audi,A4,ADVANCED EDITION 2.0 TDI 150CV 4P,Diesel,150.0,89347.0,Sedán / Berlina,2018.0,Manual,0.0,,4.0,Rojo
+249,12990,Fiat,500,1.0 Hybrid 51kw (70CV) Dolcevita,Híbrido,,34404.0,,2023.0,Manual,0.0,,3.0,Azul
+250,25400,Peugeot,Rifter,BLUEHDi 100 S&S 6 Vel. MAN ALLURE STANDARD,Diesel,100.0,11.0,Sedán / Berlina,2024.0,Manual,0.0,,5.0,Gris
+251,38500,Citroen,C5 X,Hybrid 225 e-EAT8 Shine,Híbrido,225.0,10.0,,2024.0,Automático,0.0,,5.0,Negro
+252,26394,Citroen,Berlingo,1.5 BLUEHDI 75KW TALLA M 102CV 4P,Diesel,102.0,1.0,Monovolumen,2024.0,Manual,0.0,,4.0,Blanco
+253,22500,Peugeot,2008,Puretech 130 S&S EAT8 Allure,Gasolina,130.0,12028.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Blanco
+254,34500,Opel,Astra,ELEGANCE 1.6 PHEV 1.6T HYBRID 180CV AT8 5P,Híbrido,180.0,15.0,,2023.0,Automático,0.0,,5.0,Blanco
+255,27890,Nissan,Qashqai,1.3 DIG-T MHEV N-CONNECTA 140 5P,Híbrido,140.0,33415.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Azul
+256,38500,Mitsubishi,Eclipse Cross,2.4 PHEV KAITEKI+ AUTO 4WD 188 5P,Híbrido,188.0,20250.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Gris
+257,26900,Nissan,Qashqai,1.3 DIG-T MHEV 103KW ACENTA 140 5P,Híbrido,140.0,3309.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Blanco
+258,22990,Kia,Stonic,1.0 T-GDI MHEV IMT 74KW STYLE EDITION 100CV 5P,Híbrido,100.0,16.0,Suv y 4x4,2024.0,Manual,0.0,,5.0,Blanco
+259,18490,Opel,Grandland X,Grandland Design Tech 1.2 Turbo SS MT6 130 CV,Gasolina,,10739.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Rojo
+260,18500,Peugeot,2008,Puretech 100 S&S 6 Vel. MAN Active,Gasolina,100.0,16977.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Rojo
+261,28900,Jeep,Renegade,1.5 MHEV 96KW ALTITUDE FWD DDCT 130 5P,Híbrido,,1.0,Suv y 4x4,2024.0,Automático,0.0,,,Azul
+262,27318,Citroen,ë-C3,Eléctrico Max,Eléctrico,112.0,,,2024.0,Automático,0.0,,5.0,Blanco
+263,21990,Kia,Stonic,1.0 T-GDI MHEV IMT 74KW STYLE EDITION 100CV 5P,Híbrido,100.0,1510.0,Suv y 4x4,2024.0,Manual,0.0,,5.0,Azul
+264,47900,Alfa Romeo,Stelvio,2.1 TD 140KW SPRINT AT8 Q4 190 5P,Diesel,,,Suv y 4x4,2023.0,Automático,0.0,,5.0,Azul
+265,24990,Nissan,Qashqai,1.3 DIG-T MHEV 103KW ACENTA 140CV 5P,Híbrido,140.0,15248.0,Suv y 4x4,2022.0,Manual,0.0,,5.0,Blanco
+266,39300,Kia,Sportage,1.6 T-GDi HEV 171kW (230CV) Tech 4x2,Híbrido,229.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Blanco
+267,41400,DS,DS4,4 1.6 E-TENSE 225 RIVOLI AUTO 225 5P,Híbrido,225.0,35981.0,,2021.0,Automático,0.0,,5.0,Gris
+268,10500,Fiat,500C,500 C S 1.2 69 CV 2P,Gasolina,69.0,45966.0,Cabrio,2017.0,Manual,0.0,,2.0,Azul
+269,30895,Lexus,UX,250H F SPORT LTH 2.0 HYBRID 184 CV AUTO 5P,Híbrido,184.0,81512.0,Suv y 4x4,2019.0,Automático,0.0,,5.0,Azul
+270,22790,Kia,XCeed,1.6 MHEV iMT 100kW 136CV Drive 5p Diesel,Híbrido,136.0,19696.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Plateado
+271,21750,Opel,Crossland X,Crossland 1.2 96kW (130CV) Elegance Pack AT6,Gasolina,130.0,10.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Negro
+272,34500,Seat,Ateca,FR 2.0 TDI 150 CV S/S DSG 5P,Diesel,150.0,30000.0,Suv y 4x4,2022.0,Automático,0.0,,5.0,Blanco
+273,34315,Citroen,C4,1.5 BLUEHDI 130 S&S FEEL PACK AUTO 131 5P,Diesel,131.0,29986.0,,2023.0,Automático,0.0,,5.0,Blanco
+274,25600,Citroen,Berlingo,BlueHDi 130 S&S MAX Talla M,Diesel,130.0,5.0,Familiar,2024.0,Manual,0.0,,5.0,Negro
+275,35790,Citroen,C5 X,1.6 Plug in Hybrid 225CV EAT8 Shine AUTO 165KW,Híbrido,225.0,30754.0,,2022.0,Automático,0.0,,5.0,Azul
+276,32990,Jeep,Compass,1.3 PHEV 240cv AT AWD Trailhawk,Híbrido,240.0,,Suv y 4x4,2021.0,Automático,0.0,,5.0,Verde
+277,24250,Mazda,Mazda2 Hybrid,1.5 85 kW (116 CV) CVT Homura,Híbrido,115.0,,,2024.0,Automático,0.0,,5.0,Gris
+278,36900,Mercedes,GLC,250D 4MATIC 2.1 DIESEL AUTO 5P,Diesel,204.0,44053.0,Suv y 4x4,2019.0,Automático,0.0,,5.0,Rojo
+279,27500,MG,ZS Hybrid+,1.5 HEV LUXURY 197CV 5P,Híbrido,194.0,2655.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Verde
+280,30500,Nissan,Qashqai,DIG-T 116kW (158CV) mHEV CVT Acenta,Híbrido,157.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Gris
+281,23485,Seat,Alhambra,2.0 TDI 110KW ECOMOTIVE S 150CV MANUAL 6VEL,Diesel,150.0,118722.0,Monovolumen,2019.0,Manual,0.0,,5.0,Blanco
+282,31240,Kia,Niro,1.6 GDi HEV 104kW (141CV) Drive,Híbrido,141.0,,,2024.0,Automático,0.0,,5.0,Rojo
+283,18000,Mercedes,Vito,1.7 CDI 110CDI TD SWB MIXTO COMPACT 102CV 4P,Diesel,102.0,84572.0,Monovolumen,2020.0,Manual,0.0,,4.0,Blanco
+284,14400,Kia,Picanto,1.0 DPI CONCEPT 67CV 5P,Gasolina,67.0,2800.0,,2024.0,Manual,0.0,,5.0,Plateado
+285,8595,Peugeot,2008,1.2 VTI 82 ACCESS 82CV 5P,Gasolina,82.0,148098.0,,2013.0,Manual,0.0,,5.0,Blanco
+286,45990,Seat,Tarraco,2.0 TDI 147kW 4Drive DSG S&S FR,Diesel,200.0,14000.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,
+287,18950,Peugeot,2008,N2008 ACTIVE PACK 1.2 PURETECH 100CV 5P,,100.0,37208.0,Suv y 4x4,2021.0,Manual,0.0,,5.0,Blanco
+288,40200,Alfa Romeo,Tonale,VELOCE 1.5 MHEV 160CV 5P AUT DCT,Híbrido,160.0,16538.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Gris
+289,29900,Ford,Kuga,2.5 PHEV ST-LINE X AUTO 225 5P,Híbrido,225.0,56012.0,Suv y 4x4,2021.0,Automático,0.0,,5.0,Rojo
+290,13500,Nissan,Micra,IG-T 74 kW (100 CV) E6D Acenta,Gasolina,100.0,55198.0,,2020.0,Manual,0.0,,5.0,Blanco
+291,19300,Kia,Ceed,1.0 T-GDI 88KW DRIVE 120 5P,Gasolina,120.0,11900.0,,2023.0,Manual,0.0,,5.0,Rojo
+292,19495,Opel,Vivaro,1.5 DIESEL 75KW LWB M STD EXPRESS 102CV 4P,Diesel,102.0,102197.0,Monovolumen,2022.0,Manual,0.0,,4.0,Blanco
+293,43995,DS,DS 7 Crossback,7 E-TENSE 225 OPERA,Híbrido,225.0,6750.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Blanco
+294,25500,Kia,XCeed,1.5 MHEV iMT Drive 103kW (140CV),Híbrido,140.0,,Suv y 4x4,2024.0,Manual,0.0,,5.0,Blanco
+295,26264,OMODA,5,MY25 - Comfort 1.6 TGDI 108kW (145cv),Gasolina,146.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Blanco
+296,36900,Kia,Sportage,1.6 T-GDI HEV DRIVE AUTO 230CV 5P,Híbrido,230.0,9850.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Rojo
+297,11900,Fiat,500,1.0 Hybrid 70cv Dolcevita,Híbrido,70.0,,,2022.0,Manual,0.0,,3.0,
+298,24700,Kia,Ceed,1.0 T-GDi 74kW (100CV) Tech,Gasolina,100.0,,,2024.0,Manual,0.0,,5.0,Blanco
+299,28700,Hyundai,Tucson,1.6 TGDI HEV Style 4x4 Auto 169 kW (230 CV),Híbrido,230.0,71990.0,Suv y 4x4,,Automático,0.0,,5.0,Verde
+300,19900,Peugeot,5008,ALLURE 1.2 PURETECH 130CV 7 PLAZAS 5P,,130.0,64950.0,Suv y 4x4,2018.0,Manual,0.0,,5.0,Plateado
+301,27241,Ford,Puma,1.0 EcoBoost 125cv ST-Line MHEV,Híbrido,125.0,,Suv y 4x4,2024.0,Manual,0.0,,5.0,Azul
+302,32500,Nissan,Qashqai,DIG-T 103kW N-Connecta,Híbrido,140.0,,Suv y 4x4,2024.0,Manual,0.0,,5.0,Azul
+303,17400,Seat,Arona,1.0 TSI 81KW STYLE 110 5P,Gasolina,110.0,21995.0,Suv y 4x4,2022.0,Manual,0.0,,5.0,Gris
+304,35990,Jeep,Renegade,S 4xe 1.3 PHEV 177kW(240CV) AT,Híbrido,240.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Gris
+305,30950,Ford,Kuga,1.5 ECOBOOST 110KW ST-LINE X 150 5P,Gasolina,150.0,1.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Azul
+306,34690,Kia,Sportage,1.6 T-GDI MHEV 134KW TECH DCT 4WD 180 5P,Híbrido,180.0,40782.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Azul
+307,30690,Citroen,Berlingo,ë- BEV 50KWH TALLA M SHINE AUTO 136CV 5P,Eléctrico,136.0,1.0,,2024.0,Automático,0.0,,5.0,Blanco
+308,19143,Citroen,C3 Aircross,Turbo 73kW (100CV) BVM6 YOU,Gasolina,100.0,,Suv y 4x4,2024.0,Manual,0.0,,5.0,Azul
+309,27450,Ford,Puma,1.0 ECOBOOST 114KW MHEV ST-LINE X 155 5P,Híbrido,155.0,1.0,Suv y 4x4,2024.0,Manual,0.0,,5.0,Rojo
+310,48940,DS,DS 7 Crossback,7 E-Tense 225cv Performance Line +,Híbrido,225.0,,Suv y 4x4,2023.0,Automático,0.0,,5.0,Gris
+311,31790,Peugeot,508,N 5P Allure Pack BlueHDi 130 S&S EAT8,Diesel,,20.0,,2023.0,Automático,0.0,,5.0,Rojo
+312,31500,Volvo,XC40,1.5 T2 CORE AUTO 5P,,129.0,33509.0,Suv y 4x4,2022.0,Automático,0.0,,5.0,Beige
+313,15900,Hyundai,Kona,1.0 TGDi Tecno Red 4x2 88 kW (120 CV),Gasolina,120.0,53000.0,Suv y 4x4,,Manual,0.0,,5.0,Blanco
+314,22900,Seat,Ateca,1.5 TSI 110kW DSG S&S Style Go M,Gasolina,149.0,35876.0,Suv y 4x4,2021.0,Automático,0.0,,5.0,Azul
+315,17990,Peugeot,208,Nuevo  5P Allure Pack PureTech 100 S&S EAT8,,,12786.0,,2023.0,Automático,0.0,,5.0,Negro
+316,19900,EVO,EVO 4,1.6 GLP -,Bifuel,106.0,6575.0,Suv y 4x4,2024.0,Manual,0.0,,5.0,Blanco
+317,28000,Hyundai,Kona,1.6 GDI HEV Maxx DCT 104 kW (141 CV),Híbrido,141.0,56000.0,Suv y 4x4,,Automático,0.0,,5.0,Gris
+318,18890,Kia,Picanto,1.0 DPI DRIVE 63 5P,Gasolina,63.0,4855.0,,2024.0,Manual,0.0,,5.0,Blanco
+319,27790,Kia,Ceed SW,Ceed Tourer 1.0 MHEV DRIVE DCT 120 MY24,Híbrido,,10.0,Familiar,2024.0,Automático,0.0,,5.0,Negro
+320,31490,MG,MG5,Long Range Luxury 115 kW (156 CV),Eléctrico,156.0,8000.0,Familiar,,Automático,0.0,,5.0,Negro
+321,48885,DS,DS 9,E-TENSE 225 PERFORMANCE LINE + 225CV,Híbrido,225.0,92481.0,Sedán / Berlina,2021.0,Automático,0.0,,4.0,Azul
+322,28900,Citroen,C5 Aircross Hybrid,100kW (136CV) e-DCS6 Plus,Híbrido,136.0,12849.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Blanco
+323,36100,Ford,Kuga,2.5 PHEV ST-LINE X AUTO 225 5P,Híbrido,225.0,38905.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Plateado
+324,12800,Ssangyong,Tivoli,1.6 G16 LIMITED 128CV 5P,Gasolina,128.0,142052.0,Suv y 4x4,2018.0,Manual,0.0,,5.0,Azul
+325,37900,Alfa Romeo,Tonale,PHEV 1.3 280CV Q4 VELOC,Híbrido,,15861.0,Suv y 4x4,2023.0,Automático,0.0,,,Rojo
+326,23890,Citroen,C4 X,1.5 BLUEHDI 96KW S&S FEEL PACK AUTO 131CV 4P,Diesel,131.0,32486.0,Sedán / Berlina,2023.0,Automático,0.0,,4.0,Negro
+327,34100,Kia,Sportage,1.6 CRDi 85kW (115CV) Drive 4x2,Diesel,115.0,,Suv y 4x4,2024.0,Manual,0.0,,5.0,Blanco
+328,36800,Nissan,Qashqai,DIG-T 103kW (140CV) mHEV 4x2 N-Design,Híbrido,140.0,,Suv y 4x4,2024.0,Manual,0.0,,5.0,Blanco
+329,36750,Opel,Astra PHEV,1.6T PHEV 165KW GSE AUTO 224CV 5P,Híbrido,224.0,13983.0,,2023.0,Automático,0.0,,5.0,Blanco
+330,37490,Peugeot,408,Nuevo GT PLUG-IN HYBRID 225 e-EAT8,Híbrido,,20.0,,2023.0,Automático,0.0,,5.0,Gris
+331,25900,OMODA,5,SUV 1.6 T-GDI DCT PREMIUM 145 5P,Gasolina,185.0,1700.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Blanco
+332,23147,Seat,Alhambra,2.0 TDI 110KW ECOMOTIVE S/S REFERENCE 150CV,Diesel,150.0,124102.0,Monovolumen,2019.0,Manual,0.0,,5.0,Blanco
+333,25990,Mazda,CX-30,(2022) e-SKYACTIV-G 2.0 150CV MT HOMURA,Híbrido,150.0,36668.0,Suv y 4x4,2022.0,Manual,0.0,,5.0,Blanco
+334,31000,Mazda,MX5,MX-5 1.5 SKYACTIV-G 97kW (132CV) Prime-Line,Gasolina,131.0,,Cabrio,2024.0,Manual,0.0,,2.0,Rojo
+335,31875,Mazda,CX-5,e-SKY G MHEV 2.0 121kW Center-Line Plus,Híbrido,164.0,,Suv y 4x4,2024.0,Manual,0.0,,5.0,Azul
+336,19950,Volkswagen,T-Roc,ADVANCE STYLE 1.0 TSI 110CV 5P,,110.0,56524.0,Suv y 4x4,2021.0,Manual,0.0,,5.0,Rojo
+337,49870,Kia,EV6,BEV 77KWH 168KW PLUS EDITION RWD AUTO 229 5P,Eléctrico,229.0,11100.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Negro
+338,26450,Ford,Puma,1.0 EcoBoost 125cv ST-Line X MHEV,Híbrido,125.0,,Suv y 4x4,2024.0,Manual,0.0,,5.0,Blanco
+339,21300,Fiat,500,Hb 185km 70kW (95CV) Action,Eléctrico,95.0,10.0,,2023.0,Automático,0.0,,3.0,Verde
+340,28102,Nissan,Juke,1.6 Hybrid 105kW (145CV) N-Connecta,Híbrido,142.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Negro
+341,43490,BYD,Seal,Design RWD,Eléctrico,312.0,,Sedán / Berlina,2024.0,Automático,0.0,,4.0,Blanco
+342,39300,Volvo,XC40,2.0 B4 CORE AUTO 5P,Gasolina,197.0,3.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Blanco
+343,17450,Ford,Ecosport,ACTIVE 1.0 EcoBoost 92KW (125CV) Euro 6.2,Gasolina,125.0,53778.0,Suv y 4x4,2022.0,Manual,0.0,,5.0,Azul
+344,12750,Peugeot,208,BlueHDi 73kW (100CV) Allure,Diesel,100.0,91000.0,,2020.0,Manual,0.0,,5.0,Blanco
+345,32500,Fiat,Doblo,Doblò EDoblò 3 EDoblò Furgón Maxi L2 100kW 50kWh -,Eléctrico,136.0,10.0,,2024.0,Automático,0.0,,4.0,Blanco
+346,27500,MG,ZS Hybrid+,1.5 HEV LUXURY 197CV 5P,Híbrido,194.0,2655.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Verde
+347,30900,Nissan,Juke,1.6 HYBRID HEV 105KW TEKNA AUTO 143CV 5P,Híbrido,143.0,125.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Gris
+348,13500,Peugeot,2008,STYLE 1.2 PURETECH 82CV 5P,,82.0,58710.0,Suv y 4x4,2018.0,Manual,0.0,,5.0,Blanco
+349,38990,Audi,Q3,Black line 35 TDI 110kW (150CV) S tronic,Diesel,150.0,110000.0,Suv y 4x4,2022.0,Automático,0.0,,5.0,
+350,17200,MG,ZS,LUXURY 1.5 106 CV MAN 5P,Gasolina,106.0,12828.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Plateado
+351,41000,Kia,e-Niro,150kW Concept (Long Range),Eléctrico,204.0,,,2024.0,Automático,0.0,,5.0,Blanco
+352,24300,Peugeot,2008,ALLURE PACK 1.2 PURETECH 100 CV 5P,Gasolina,100.0,25697.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Plateado
+353,19600,Citroen,C5 Aircross,1.2 PURETECH 130 S&S SHINE 131 5P,Gasolina,96.0,48658.0,Suv y 4x4,2019.0,Manual,0.0,,5.0,Blanco
+354,60175,Mazda,CX-80,e-SKYACTIV D MHEV 187kW AWD Homura,Híbrido,254.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Negro
+355,33825,Alfa Romeo,Junior,Ibrida 100kW (136CV) Speciale,Híbrido,136.0,10.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Rojo
+356,26264,OMODA,5,MY25 - Comfort 1.6 TGDI 108kW (145cv),Gasolina,146.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Gris
+357,25890,Cupra,León,SP 1.5 eTSI 110kW (150CV) DSG,Gasolina,150.0,19500.0,Familiar,2023.0,Automático,0.0,,5.0,
+358,36800,Opel,Grandland PHEV,1.6 TURBO PHEV GS AUTO 180 CV 5P,Híbrido,224.0,91.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Rojo
+359,48990,BYD,Seal,Excellence AWD,Eléctrico,530.0,,Sedán / Berlina,2024.0,Automático,0.0,,4.0,Gris
+360,19500,Seat,Arona,STYLE XL 1.0 TSI 110CV 5P,Gasolina,110.0,22290.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Blanco
+361,40600,Citroen,C5 Aircross Hybrid,1.6 HYBRID 225 FEEL PACK AUTO 225 5P,Híbrido,225.0,10.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Gris
+362,33299,Kia,EV3,Air Standard Range,Eléctrico,204.0,,Suv y 4x4,2023.0,Automático,0.0,,5.0,Verde
+363,17950,Volkswagen,T-Cross,EDITION 1.0 TSI 95CV 5P,,95.0,40104.0,Suv y 4x4,2020.0,Manual,0.0,,5.0,Gris
+364,20490,Seat,Arona,1.0 TSI 81kW (110CV) FR XL RX,Gasolina,110.0,15500.0,Suv y 4x4,2024.0,Manual,0.0,,5.0,
+365,10890,Citroen,AMI,BEV 6KWH MY AMI BUGGY 8 2P,Eléctrico,8.0,1.0,,2023.0,Automático,0.0,,2.0,Verde
+366,25900,Ford,Focus,1.0 ECOBOOST MHEV 92KW ST-LINE DESIGN 125CV 5P,Híbrido,125.0,1.0,,2023.0,Manual,0.0,,5.0,Gris
+367,21490,Peugeot,2008,NSUV Allure PureTech 100 SS 6 Vel. MAN,Gasolina,,10.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Rojo
+368,32850,Nissan,Qashqai,1.5 EREV E-POWER 140KW N-CONNECTA AUTO 190 5P,Híbrido,190.0,22092.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Rojo
+369,14890,Volkswagen,Polo,Advance 1.0 TSI 70kW (95CV),Gasolina,95.0,62600.0,,2020.0,Manual,0.0,,5.0,Gris
+370,25230,MG,ZS,1.0T Luxury Auto,Gasolina,111.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Azul
+371,25300,Citroen,ë-C3 Aircross,Eléctrico 113cv YOU,Eléctrico,112.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Azul
+372,37900,Volvo,XC40,2.0 B3 CORE AUTO 5P,Gasolina,163.0,1.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Blanco
+373,45990,Volvo,XC 60,XC60 B4 (D) Plus Dark,Híbrido,,17647.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Azul
+374,38200,BYD,Seal U,1.5 DM-i Boost,Eléctrico,217.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Blanco
+375,34900,Nissan,Qashqai,1.5 HEV E-POWER 140KW N-CONNECTA AUTO 190 5P,Híbrido,190.0,8250.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Gris
+376,21300,Opel,Corsa,1.2T XHL 100CV GS,Gasolina,100.0,,,2024.0,Manual,0.0,,5.0,
+377,42900,Volvo,C40,BEV 82KWH RECHARGE TWIN PLUS AWD 5P,Híbrido,408.0,19376.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Azul
+378,24200,Ford,Puma,1.0 ECOBOOST 92KW MHEV ST-LINE X 125 5P,Híbrido,125.0,193.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Gris
+379,35600,Jeep,Avenger,BEV 54KWH ALTITUDE 156 5P,Eléctrico,,1.0,Suv y 4x4,2023.0,Automático,0.0,,,Blanco
+380,37200,Peugeot,Rifter,GT L1 ELECTRIC 136CV,Eléctrico,136.0,17782.0,Monovolumen,2023.0,Automático,0.0,,5.0,Negro
+381,17500,Citroen,C3 Aircross,BlueHDi 81kW (110CV) S&S C-Series,Diesel,110.0,15066.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Gris
+382,35600,Jeep,Avenger,BEV 54KWH ALTITUDE 156 5P,Eléctrico,,1.0,Suv y 4x4,2023.0,Automático,0.0,,,Blanco
+383,24000,BMW,Serie 3,318d,Diesel,149.0,90250.0,Sedán / Berlina,2019.0,Manual,0.0,,4.0,Negro
+384,13500,Skoda,Fabia,1.0 TSI 70KW (95cv) Ambition,Gasolina,95.0,42062.0,,2021.0,Manual,0.0,,5.0,Blanco
+385,31490,Citroen,Berlingo,ë- BEV 50KWH TALLA XL SHINE AUTO 136 5P,Eléctrico,136.0,11561.0,Monovolumen,2023.0,Automático,0.0,,5.0,Negro
+386,17100,Peugeot,2008,PURETECH 130 S&S 6V ALLURE,Gasolina,130.0,74000.0,Sedán / Berlina,2020.0,Manual,0.0,,5.0,Blanco
+387,37900,Nissan,X Trail,X-Trail Nuevo X-Trail 5 Plazas 1.5 e-POWER 152kW (204CV) A/T 4x2 N-Connecta,Híbrido,204.0,8451.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Blanco
+388,18790,Seat,Ibiza,1.0 TSI 81kW (110CV) FR,Gasolina,110.0,4600.0,,2023.0,Manual,0.0,,5.0,
+389,38650,Subaru,crosstrek,2.0i Hybrid CVT 136cv TOURING,Híbrido,136.0,15.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Blanco
+390,17900,Kia,XCeed,DRIVE 1.0 T-GDI 120CV 5P,,120.0,64669.0,Suv y 4x4,2022.0,Manual,0.0,,5.0,Blanco
+391,59672,Mazda,CX-80,e-SKYACTIV PHEV 241kW AWD Exclusive-Line,Híbrido,327.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Marrón
+392,40600,Citroen,C5 Aircross Hybrid,1.6 HYBRID 225 FEEL PACK AUTO 225 5P,Híbrido,225.0,10.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Gris
+393,43490,Volvo,C40,Twin AWD Electrico Puro,Eléctrico,,14554.0,Suv y 4x4,2022.0,Automático,0.0,,5.0,Plateado
+394,19990,Peugeot,e-208,Eléctrico GT 100 kW (136 CV),Eléctrico,136.0,28160.0,,,Automático,0.0,,5.0,Azul
+395,35900,Alfa Romeo,Tonale,1.5 MHEV GASOLINA 130 CV FWD Speciale,Híbrido,130.0,18700.0,Suv y 4x4,2022.0,Automático,0.0,,5.0,Verde
+396,13190,Fiat,500,1.0 Hybrid 51kw (70CV) Dolcevita,Híbrido,,32939.0,,2023.0,Manual,0.0,,3.0,Azul
+397,35500,Volvo,XC40,1.5 T4 RECHARGE CORE DCT 5P,Eléctrico,211.0,20001.0,Suv y 4x4,2022.0,Automático,0.0,,5.0,Azul
+398,18500,Mazda,CX-5,2.0 G 121kW (165CV) 2WD Evolution Navi,Gasolina,164.0,96841.0,Suv y 4x4,2018.0,Manual,0.0,,5.0,Blanco
+399,14995,Nissan,Qashqai,DIG-T 115 N-Connecta 85 kW (115 CV),Gasolina,115.0,96500.0,Suv y 4x4,2018.0,Manual,0.0,,5.0,Gris
+400,19900,Fiat,500,Hb 185km 70kW (95CV) Action,Eléctrico,95.0,10.0,,2023.0,Automático,0.0,,3.0,
+401,14800,Opel,Crossland X,1.2 60KW EDITION 81 5P,Gasolina,81.0,54104.0,Suv y 4x4,2020.0,Manual,0.0,,5.0,Blanco
+402,19300,Jeep,Renegade,1.0G 120MT6 88kW (120CV) 4x2 Limited,Gasolina,120.0,39621.0,Suv y 4x4,2020.0,Manual,0.0,,5.0,Gris
+403,17500,Volkswagen,Polo,Life 1.0 TSI 70kW (95CV),Gasolina,95.0,26978.0,,2023.0,Manual,0.0,,5.0,Blanco
+404,30400,Kia,Niro,1.6 GDI PHEV DRIVE 183 5P,Híbrido,183.0,8200.0,,2024.0,Automático,0.0,,5.0,Gris
+405,29500,Toyota,Proace City,VAN BEV 50KWH 136PS 4P,Eléctrico,136.0,1.0,Monovolumen,2024.0,Automático,0.0,,4.0,Blanco
+406,35200,Peugeot,2008,ACTIVE PACK ELECTRICO 100KW 136CV AUTO 5P,Eléctrico,136.0,9567.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Plateado
+407,32900,Opel,Corsa Electric,GS ELECTRIC 51KWH LONGE RANGE 156CV (115KW),Eléctrico,,3800.0,,2024.0,Automático,0.0,,,Gris
+408,43600,Nissan,Qashqai,E-POWER 140 KW (190 CV) Tekna Premium,Híbrido,190.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Azul
+409,13990,Fiat,500,1.0 HYBRID DOLCEVITA 70 3P,Híbrido,70.0,19782.0,,2022.0,Manual,0.0,,,Blanco
+410,27490,Alfa Romeo,Stelvio,EXECUTIVE 2.2 D TURBO 210CV AUTO Q4 5P,Diesel,210.0,59280.0,Suv y 4x4,2019.0,Automático,0.0,,5.0,Rojo
+411,36995,Nissan,Qashqai,E-POWER N-Connecta Auto 140 kW (190 CV),Híbrido,190.0,2535.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Gris
+412,37300,Volvo,XC40,1.5 T4 PHEV RECHARGE PLUS BRIGHT DCT 5P,Híbrido,211.0,19192.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Plateado
+413,31000,Jeep,Avenger,BEV ALTITUDE,Eléctrico,,2000.0,Suv y 4x4,2023.0,Automático,0.0,,,Blanco
+414,12790,Fiat,500,1.0 Hybrid 51kw (70CV) Dolcevita,Híbrido,,44777.0,,2023.0,Manual,0.0,,3.0,Negro
+415,32900,Ford,Kuga,2.5 PHEV ST-LINE X AUTO 225 5P,Híbrido,225.0,55426.0,Suv y 4x4,2021.0,Automático,0.0,,5.0,Blanco
+416,16500,Opel,Corsa,Edition 1.2T XEL MT5 S/S 75 CV (55kW),,55.0,22244.0,,2023.0,Manual,0.0,,5.0,Rojo
+417,31800,Citroen,C5 Aircross Hybrid,1.6 HYBRID 225 FEEL PACK AUTO 225 5P,Híbrido,225.0,258.0,Suv y 4x4,2022.0,Automático,0.0,,5.0,Blanco
+418,32900,Peugeot,5008,1.2 100KW eDCS6 Allure Pack,Híbrido,136.0,16762.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Gris
+419,20390,Kia,XCeed,1.6 PHEV ETECH,Híbrido,141.0,48381.0,Suv y 4x4,2020.0,Manual,0.0,,5.0,Rojo
+420,25293,Ford,Transit Connect,VAN,Diesel,102.0,,Monovolumen,2024.0,Manual,0.0,,,Blanco
+421,13900,Citroen,C3,PURETECH 83 S&S FEEL PACK,Gasolina,83.0,20700.0,Sedán / Berlina,2022.0,Manual,0.0,,5.0,Blanco
+422,18790,Kia,Picanto,1.0 TGDI XLINE MY23,Gasolina,100.0,10.0,,2023.0,Manual,0.0,,5.0,Negro
+423,15900,Peugeot,208,ALLURE 1.2 PURETECH 100 CV 5P,,100.0,20898.0,,2022.0,Manual,0.0,,5.0,Negro
+424,28700,Mazda,Mazda3,e-SKYACTIV-G 90KW EXCLUSIVE-LINE PLUS,Híbrido,122.0,,,2024.0,Manual,0.0,,5.0,Blanco
+425,22950,Ford,Puma,1.0 ECOBOOST 92KW MHEV ST-LINE X 125 5P,Híbrido,125.0,15205.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Blanco
+426,38900,Ford,Kuga,2.5 PHEV ST-LINE X AUTO 225 5P,Híbrido,225.0,2010.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Gris
+427,19090,Kia,Ceed,1.0 T-GDI 74KW DRIVE 100CV 5P,Gasolina,100.0,2047.0,,2023.0,Manual,0.0,,5.0,Negro
+428,28373,Ford,Tourneo Courier,1.0 Ecoboost 92kW (125CV) Active,Gasolina,125.0,,,2024.0,Manual,0.0,,5.0,Verde
+429,44790,Peugeot,508,1.6 HYBRID 225 GT E-AUTO 225CV 5P,Híbrido,225.0,1000.0,,2024.0,Automático,0.0,,5.0,Gris
+430,17700,Fiat,Panda,1.0 Hybrid 51kw (70CV) Cross,Híbrido,70.0,10.0,,2024.0,Manual,0.0,,5.0,Rojo
+431,62680,Mazda,CX-80,e-SKYACTIV D MHEV 187kW Excl.-Line Plus,Híbrido,254.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Rojo
+432,25900,Ford,Focus,1.0 ECOBOOST MHEV 114KW ACTIVE SIP 155 5P,Híbrido,155.0,10.0,,2023.0,Manual,0.0,,5.0,Blanco
+433,23900,Peugeot,3008,1.2 PureTech 96KW (130CV) S&S Allure,Gasolina,130.0,20955.0,Suv y 4x4,2024.0,Manual,0.0,,5.0,Blanco
+434,22990,Peugeot,2008,SUV Allure Pack BlueHDI 130 SS EAT8,Diesel,130.0,40743.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Negro
+435,33300,Kia,Niro,1.6 GDI PHEV DRIVE 183 5P,Híbrido,183.0,16168.0,,2023.0,Automático,0.0,,5.0,Negro
+436,17990,Volkswagen,Polo,Sport 1.0 TSI 85kW (115CV) DSG,Gasolina,115.0,56200.0,,2019.0,Automático,0.0,,5.0,Negro
+437,17190,Peugeot,208,Nuevo 5P Allure Pack BlueHDi 100 S&S 6 Vel MAN,Diesel,,44955.0,,2023.0,Manual,0.0,,5.0,Gris
+438,42950,MG,Marvel R,PERFORMANCE,Eléctrico,288.0,5.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Gris
+439,27390,Cupra,Formentor,1.5 TSI 110kW (150 CV) DSG,Gasolina,150.0,24700.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,
+440,28999,Peugeot,308,Hybrid 180 Allure Pack eEAT8 132 kW (180 CV),Híbrido,180.0,43400.0,Familiar,,Automático,0.0,,5.0,Azul
+441,21585,Citroen,C3 Aircross,Turbo 73kW (100CV) BVM6 YOU PACK PLUS,Gasolina,100.0,,Suv y 4x4,2024.0,Manual,0.0,,5.0,Blanco
+442,15900,Kia,Stonic,CONCEPT PLUS 1.2 DPI 84 CV 5P,Gasolina,84.0,40320.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Blanco
+443,26900,Nissan,Juke,1.6 HYBRID HEV 105KW N-CONNECTA AUTO 143 5P,Híbrido,143.0,8900.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Blanco
+444,20100,Peugeot,208,ACTIVE 1.5 BLUEHDI 100CV MAN,Diesel,100.0,13958.0,,2023.0,Manual,0.0,,5.0,Gris
+445,21490,Peugeot,2008,SUV Allure Pack PureTech 130 S&S EAT8,Gasolina,,24459.0,Suv y 4x4,2022.0,Automático,0.0,,5.0,Blanco
+446,33900,Opel,Corsa,GS BEV 156 CV LONG RANGE (51KW) 5P,Eléctrico,156.0,2040.0,,2023.0,Automático,0.0,,5.0,Gris
+447,29900,Jeep,Avenger,1.2 MHEV 100CV MY24 AUT,Híbrido,100.0,10931.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Blanco
+448,24314,Ford,Tourneo Courier,1.0 Ecoboost 92kW (125CV) Trend,Gasolina,125.0,,,2024.0,Manual,0.0,,5.0,Gris
+449,79990,Jeep,Grand Cherokee,SUMMIT RESERVE,Híbrido,380.0,17890.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Negro
+450,28990,Kia,XCeed,1.6 GDI PHEV ETECH 141 5P,Híbrido,141.0,44979.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Bronce
+451,28900,Fiat,500C,500E CABRIO ICON 87KW 118CV,Eléctrico,118.0,16500.0,Cabrio,2021.0,Automático,0.0,,2.0,Oro
+452,16900,Mazda,Mazda2,HOMURA 1.5 E-SKYACTIV-G HEV 90 CV 5P,Híbrido,90.0,48208.0,,2022.0,Manual,0.0,,5.0,Blanco
+453,22700,Citroen,ë-C3,Eléctrico You,Eléctrico,112.0,,,2024.0,Automático,0.0,,5.0,Azul
+454,27080,Toyota,C-HR,ADVANCE 1.8 VVT-I HYBRID 122 CV AUTO 5P,Híbrido,122.0,15097.0,,2023.0,Automático,0.0,,5.0,Marrón
+455,25900,Ford,Focus,1.0 ECOBOOST MHEV 92KW ST-LINE DESIGN 125CV 5P,Híbrido,125.0,1.0,,2023.0,Manual,0.0,,5.0,Gris
+456,45830,BYD,Seal U,87 kWh Design,Eléctrico,217.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Blanco
+457,35500,Alfa Romeo,Stelvio,2.2 Diésel 210cv Veloce Q4,Diesel,210.0,,Suv y 4x4,2022.0,Automático,0.0,,5.0,
+458,12790,Fiat,500,1.0 Hybrid 51kw (70CV) Dolcevita,Híbrido,,48430.0,,2023.0,Manual,0.0,,3.0,Blanco
+459,33895,Lexus,UX,250H PREMIUM 2.0 HYBRID 184 CV AUTO 5P,Híbrido,112.0,7184.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Verde
+460,37850,Ford,Mustang Mach-E,BEV 76KWH 269PS AUTO STANDARD RANGE 269 5P,Eléctrico,269.0,10195.0,,2023.0,Automático,0.0,,5.0,Plateado
+461,25900,Volkswagen,T-Roc,ADVANCE STYLE 1.5 TSI 150 CV DSG 5P,,150.0,31030.0,Suv y 4x4,2022.0,Automático,0.0,,5.0,Azul
+462,24900,Peugeot,2008,ALLURE PACK 1.2 PURETECH 100CV MAN,Gasolina,100.0,16336.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Plateado
+463,18900,Peugeot,208,Allure Puretech 100,Gasolina,100.0,10.0,,2024.0,Manual,0.0,,5.0,Gris
+464,11800,Ford,Ka,+ 1.2 TI-VCT 63KW WHITE EDITION 85 5P,Gasolina,85.0,69828.0,,2019.0,Manual,0.0,,5.0,Blanco
+465,22350,Ford,Puma,1.0 ECOBOOST 92KW MHEV TITANIUM 125 5P,Híbrido,125.0,22.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Blanco
+466,31530,MG,HS,1.5 Turbo GDI Comfort DCT,,161.0,,Suv y 4x4,2023.0,Automático,0.0,,5.0,Gris
+467,14800,Opel,Crossland X,1.2 60KW EDITION 81 5P,Gasolina,81.0,54104.0,Suv y 4x4,2020.0,Manual,0.0,,5.0,Blanco
+468,32990,Nissan,Qashqai,1.5 HEV E-POWER 140KW N-CONNECTA AUTO 190 5P,Híbrido,190.0,7015.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Azul
+469,33490,Cupra,Born,170kW (231 CV) 77kWh E-Boost Pack+Batter,Eléctrico,231.0,4500.0,,2023.0,Automático,0.0,,5.0,
+470,77600,Jeep,Wrangler,2.0 280kW (380CV) 8ATX E6D Rubicon,Híbrido,381.0,1.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Gris
+471,33100,Peugeot,3008,1.2 100KW Allure eDCS6,Híbrido,136.0,1500.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Azul
+472,33900,Volvo,XC40,2.0 B3 CORE AUTO 5P,,163.0,46757.0,Suv y 4x4,2022.0,Automático,0.0,,5.0,Rojo
+473,36995,Nissan,X Trail,X-Trail 1.5 VC Turbo MHEV N-Connecta Xtronic 120 kW (163 CV),Híbrido,163.0,10.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Plateado
+474,31995,Nissan,Qashqai,DIG-T 140 N-Connecta 103 kW (140 CV),Gasolina,140.0,4184.0,Suv y 4x4,2024.0,Manual,0.0,,5.0,Azul
+475,42950,Peugeot,408,PLUG-IN HYBRID 180 e-EAT8 GT,Híbrido,180.0,15.0,Sedán / Berlina,2024.0,Automático,0.0,,5.0,Gris
+476,27950,Ford,Focus,SB 1.0 ECOBOOST MHEV 114KW ST-LINE X 155CV 5P,Híbrido,155.0,10.0,Familiar,2024.0,Manual,0.0,,5.0,Rojo
+477,37900,Volvo,XC40,2.0 B3 CORE AUTO 5P,Gasolina,163.0,9.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Plateado
+478,16290,Dacia,Spring,SPRING ELECTRIC 65 27 EXTREME AUTOMATICO,Eléctrico,65.0,16583.0,,2023.0,Automático,0.0,,5.0,Verde
+479,8368,Citroen,AMI,BEV MY AMI Cargo 8CV 3P 6KW,Eléctrico,8.0,2100.0,,2022.0,Automático,0.0,,3.0,Azul
+480,47500,Nissan,X Trail,X-Trail 5pl 1.5 e-POWER 152kW 4x2 A/T Tekna,Híbrido,204.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Blanco
+481,16900,Hyundai,Bayon,1.2 MPI Maxx 62 kW (84 CV),Gasolina,84.0,14720.0,Suv y 4x4,,Manual,0.0,,5.0,Blanco
+482,30900,Peugeot,3008,1.5 BlueHDi 130cv S&S Allure Pack EAT8,Diesel,130.0,,Suv y 4x4,2023.0,Automático,0.0,,5.0,
+483,26500,Peugeot,308,5P Hybrid 136 e-DCS6 Allure,Híbrido,136.0,9698.0,,2024.0,Automático,0.0,,5.0,Blanco
+484,26490,Nissan,Juke,1.6 HYBRID HEV N-CONNECTA AUTO 143 5P,Híbrido,143.0,27024.0,,2022.0,Automático,0.0,,5.0,Blanco
+485,18500,Land Rover,Range Rover Evoque,SE DYNAMIC 2.0L ED4 150 CV 2WD 5P,Diesel,150.0,99000.0,Suv y 4x4,2016.0,Manual,0.0,,5.0,Negro
+486,10590,Citroen,C4 Picasso,1.2 PURETECH 96KW S&S LIVE 130 5P,Gasolina,130.0,141639.0,,2016.0,Manual,0.0,,5.0,Negro
+487,30955,Toyota,C-HR,SUV 1.8 HEV HYBRID ADVANCE CVT 140 5P,Híbrido,140.0,4521.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Blanco
+488,19690,Kia,XCeed,1.6 PHEV EDRIVE (MY21),Híbrido,141.0,61702.0,Suv y 4x4,2022.0,Automático,0.0,,5.0,Naranja
+489,11900,Ford,Transit Courier,Van 1.5 TDCi 71kW Trend,Diesel,100.0,74130.0,Monovolumen,2019.0,Manual,0.0,,4.0,Blanco
+490,32500,Mazda,Mazda3,2.0 e-SKYACTIV-X HOMURA AT,Híbrido,186.0,,,2024.0,Automático,0.0,,5.0,Rojo
+491,35440,BYD,Atto 3,Design,Eléctrico,204.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Blanco
+492,14490,Hyundai,Ioniq,EV TECNO 120 5P,Eléctrico,120.0,142404.0,,2017.0,Automático,0.0,,5.0,Azul
+493,19400,Citroen,C3 Aircross,BlueHDi 110 S& SHINE,Diesel,110.0,51338.0,Suv y 4x4,2022.0,Manual,0.0,,5.0,Blanco
+494,14900,Hyundai,Ioniq,KLASS 1.6 GDI HEV 141 CV DCT 5P,Híbrido,141.0,61791.0,,2017.0,Automático,0.0,,5.0,Blanco
+495,12995,Hyundai,Bayon,1.2 MPI ESSENCE 84CV 5P,Gasolina,84.0,57465.0,Suv y 4x4,2021.0,Manual,0.0,,5.0,Blanco
+496,14990,Fiat,500,1.0 MHEV DOLCEVITA 70 3P,Híbrido,70.0,12363.0,,2023.0,Manual,0.0,,,Negro
+497,26100,Mazda,Mazda2 Hybrid,1.5 85 kW (116 CV) CVT Homura,Híbrido,115.0,,,2024.0,Automático,0.0,,5.0,Azul
+498,21487,Citroen,C4,Nuevo C4 PureTech 130CV S&S FEEL PACK 5P,Gasolina,130.0,47801.0,,2021.0,Manual,0.0,,5.0,Blanco
+499,44900,Peugeot,408,PHEV 225cv e-EAT8 GT,Híbrido,224.0,,,2023.0,Automático,0.0,,5.0,
+500,43800,Kia,Sportage,1.6 T-GDi HEV 158kW (215CV) Tech 4x4,Híbrido,214.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Verde
+501,16490,Hyundai,i30,FB 1.0 TGDI Link 120,Gasolina,120.0,43000.0,Familiar,2018.0,Manual,0.0,,5.0,Blanco
+502,32900,Peugeot,5008,1.2 100KW eDCS6 Allure Pack,Híbrido,136.0,19255.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Gris
+503,19900,Fiat,Doblo,Doblò N. DOBLO CREW CAB 100CV,Diesel,105.0,33800.0,Monovolumen,2023.0,Manual,0.0,,4.0,Blanco
+504,15500,Hyundai,Kona,1.0 TGDI Klass 4x2 88 kW (120 CV),Gasolina,120.0,62400.0,Suv y 4x4,,Manual,0.0,,5.0,Gris
+505,19990,Mazda,Mazda3,2.0 SKYACTIV-G 88KW ZENITH 122CV 5P,Gasolina,122.0,65000.0,,2020.0,Manual,0.0,,5.0,Azul
+506,17200,MG,ZS,LUXURY 1.5 106 CV MAN 5P,Gasolina,105.0,13820.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Blanco
+507,19300,Opel,Mokka,GS 1.5 DIESEL 110CV 5P,Diesel,110.0,43140.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Gris
+508,17300,Fiat,500,1.0 Hybrid 51KW (70 CV) Dolcevita,Híbrido,70.0,11146.0,,2023.0,Manual,0.0,,3.0,Beige
+509,19700,Fiat,Tipo,CITY LIFE 1.3 MJET 95CV MY22,Diesel,95.0,125.0,,2022.0,Manual,0.0,,5.0,Gris
+510,19500,Peugeot,2008,ALLURE PACK,Diesel,110.0,,Suv y 4x4,2022.0,Manual,0.0,,5.0,
+511,40900,Volvo,V 60,V60 familiar 2.0 B4 D ESSENTIAL AUTO 5P,Diesel,197.0,1.0,Familiar,2024.0,Automático,0.0,,5.0,Negro
+512,11000,Fiat,500,1.2 8v 51KW (69 CV) Lounge,Gasolina,69.0,69878.0,,2019.0,Manual,0.0,,3.0,Rojo
+513,28800,Citroen,ë-C4,BEV 50 KWH ELECTRIC SHINE 136 5P,Eléctrico,136.0,5.0,,2023.0,Automático,0.0,,5.0,Negro
+514,15800,Opel,Corsa,Edition 1.2T XEL MT5 S/S 75 CV (55kW),Gasolina,75.0,17175.0,,2023.0,Manual,0.0,,5.0,Blanco
+515,19190,Kia,Ceed,5P 1.0 T-GDI DRIVE 120 MY24,Gasolina,,10543.0,,2024.0,Manual,0.0,,5.0,Azul
+516,52980,Kia,Sorento,2.2 CRDI EMOTION PACK PREMIUM AUTO 2WD 194CV 5P 7 Plazas,Diesel,194.0,12824.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Gris
+517,19090,Kia,Niro,1.6 GDI PLUG-IN HYBRID DRIVE 141 5P,Híbrido,141.0,77510.0,,2020.0,Automático,0.0,,5.0,Blanco
+518,43500,Volvo,XC40,1.5 T4 PHEV RECHARGE ULTIMATE DARK DCT 5P,Híbrido,211.0,23299.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Beige
+519,23175,Nissan,Leaf,150PS TEKNA 40KWH PROPILOT 150 5P,Eléctrico,150.0,35566.0,,2020.0,Automático,0.0,,5.0,Azul
+520,16800,Hyundai,Bayon,1.2 MPI Klass 62 kW (84 CV),Gasolina,84.0,25000.0,Suv y 4x4,,Manual,0.0,,5.0,Blanco
+521,29950,Mercedes,Clase C,C200 1.5 GASOLINA AUTO 4P,,184.0,69576.0,Sedán / Berlina,2019.0,Automático,0.0,,4.0,Gris
+522,43490,Volvo,XC 60,XC60 B4 (gasolina) Plus Bright Auto,Híbrido,,14646.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Rojo
+523,32200,Ford,S-Max,TIT. ED. 2.5 Duratec Atkinson FHEV 140KW(190CV) Aut CVT E6.2,Híbrido,110.0,24159.0,Monovolumen,2022.0,Automático,0.0,,5.0,Gris
+524,37500,DS,DS4,4 1.6 E-TENSE 225 TROCADERO AUTO 225 5P,Híbrido,225.0,29441.0,,2023.0,Automático,0.0,,5.0,Negro
+525,14895,Renault,Megane,Mégane 1.2 TCE ENERGY LIFE 74KW 100CV 5P,Gasolina,100.0,72610.0,,2019.0,Manual,0.0,,5.0,Azul
+526,29900,Jeep,Renegade,LIMITED PHEV 190CV,Híbrido,,21976.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Rojo
+527,45600,Peugeot,408,GT 1.6 HYBRID AUTO 224CV 5P,Híbrido,224.0,15100.0,,2023.0,Automático,0.0,,5.0,Gris
+528,30000,Peugeot,Rifter,e-Rifter GT Standard 100kw,Eléctrico,136.0,1.0,,2023.0,Automático,0.0,,5.0,
+529,14888,Citroen,Jumpy,2.0 HDI MIXED L 128CV 4P MANUAL 6VEL,Diesel,128.0,113437.0,Monovolumen,2015.0,Manual,0.0,,4.0,Blanco
+530,12900,Hyundai,i40,1.7 CRDi 115cv BlueDrive Klass,Diesel,115.0,,Sedán / Berlina,2016.0,Manual,0.0,,4.0,Gris
+531,14300,Fiat,Panda,Hybrid 1.0 51kw (70CV) -,Híbrido,70.0,10.0,,2023.0,Manual,0.0,,5.0,Blanco
+532,36990,Volvo,EX30,ULTRA Single motor Extended Range Electr.,Eléctrico,,5681.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Negro
+533,40900,Volvo,XC 60,XC60 2.0 B4 P CORE AUTO 5P,Gasolina,197.0,16700.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Negro
+534,20190,Citroen,C4 X,1.2 PURETECH 100 S&S FEEL 102 4P,Gasolina,102.0,14117.0,Sedán / Berlina,2023.0,Manual,0.0,,4.0,Gris
+535,12500,Kia,Picanto,1.0 DPI CONCEPT 67CV 5P,Gasolina,67.0,11252.0,,2023.0,Manual,0.0,,5.0,Blanco
+536,22900,Fiat,Tipo,LIFE CITY 1.5 HYBRID 130CV AUT DCT,Híbrido,130.0,12128.0,,2022.0,Automático,0.0,,5.0,Blanco
+537,20390,Kia,XCeed,1.6 PHEV ETECH,Híbrido,141.0,48381.0,Suv y 4x4,2020.0,Manual,0.0,,5.0,Rojo
+538,36900,Volkswagen,Golf,GTI 2.0 TSI DSG 5P,Gasolina,245.0,10832.0,Suv y 4x4,2020.0,Automático,0.0,,5.0,Rojo
+539,37100,Leapmotor,C10,Desing,Eléctrico,218.0,1.0,Familiar,2024.0,Automático,0.0,,,Verde
+540,24700,Kia,Ceed,1.0 T-GDi 74kW (100CV) Tech,Gasolina,100.0,,,2024.0,Manual,0.0,,5.0,Blanco
+541,15900,Hyundai,Bayon,1.2 MPI Maxx 62 kW (84 CV),Gasolina,84.0,21450.0,Suv y 4x4,,Manual,0.0,,5.0,Blanco
+542,25200,Kia,Ceed SW,Ceed Tourer Tourer 1.0 T-GDi 88kW (120CV) Drive,Gasolina,119.0,,Familiar,2024.0,Manual,0.0,,5.0,Rojo
+543,20990,Kia,Ceed,1.6 MHEV CONCEPT 136 5P,Híbrido,136.0,27363.0,,2022.0,Manual,0.0,,5.0,Negro
+544,17900,Peugeot,5008,PureTech 130 S&S Allure 96 kW (130 CV),Gasolina,130.0,60000.0,Suv y 4x4,,Manual,0.0,,5.0,Verde
+545,16990,Jeep,Renegade,1.0 G 88KW LONGITUDE FWD 120CV 5P,Gasolina,120.0,72800.0,,2020.0,Manual,0.0,,5.0,Negro
+546,37400,Ford,Kuga,2.5 FHEV ST-LINE X AUTO 190CV 5P,Híbrido,190.0,16558.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Plateado
+547,13000,Citroen,C4 Cactus,1.5 BLUEHDI 73KW FEEL 99 5P,Diesel,99.0,128119.0,,2018.0,Manual,0.0,,5.0,Rojo
+548,31290,Citroen,Berlingo,ë- BEV 50KWH TALLA M LIVE PACK AUTO 136 4P,Eléctrico,136.0,11455.0,,2023.0,Automático,0.0,,4.0,Blanco
+549,35340,Citroen,C5 X,1.6 PHEV 225 EAT8 SHINE PACK AUTO 225CV 5P,Híbrido,225.0,21662.0,,2023.0,Automático,0.0,,5.0,Blanco
+550,46590,Honda,CR-V,ELEGANCE NAVI 2.0I-MMD 184CV CVT 5P.,Híbrido,184.0,7621.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Rojo
+551,21500,Mini,Cooper,1.5 GASOLINA AUT 5P,,136.0,45061.0,Suv y 4x4,2022.0,Automático,0.0,,5.0,Gris
+552,35600,Jeep,Avenger,BEV 54KWH ALTITUDE 156 5P,Eléctrico,,1.0,Suv y 4x4,2023.0,Automático,0.0,,,Blanco
+553,25900,Peugeot,308,5P BlueHDi 130 S&S EAT8 Allure,Diesel,130.0,15848.0,,2024.0,Automático,0.0,,5.0,Blanco
+554,36950,Ford,Kuga,2.5 FHEV ST-LINE X AUTO 190CV 5P,Híbrido,190.0,16545.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Plateado
+555,24900,Hyundai,Kona,1.6 GDI HEV Tecno 2C DCT 104 kW (141 CV),Híbrido,141.0,47200.0,Suv y 4x4,,Automático,0.0,,5.0,Rojo
+556,22500,Kia,Ceed,1.6 MHEV 100KW CONCEPT 136 5P,Híbrido,136.0,10.0,,2023.0,Manual,0.0,,5.0,Gris
+557,33900,Volvo,V 60,V60 CROSS COUNTRY familiar 2.0 D4 AUTO PRO AWD 5P,Diesel,190.0,70791.0,Familiar,2019.0,Automático,0.0,,5.0,Blanco
+558,17790,Kia,Picanto,1.2 DPI GT LINE 84 5P,Gasolina,84.0,3461.0,,2023.0,Manual,0.0,,5.0,Rojo
+559,20900,Peugeot,3008,ALLURE 1.2 PURETECH 130CV AUTO 5P,,130.0,70678.0,Suv y 4x4,2019.0,Automático,0.0,,5.0,Blanco
+560,16700,MG,ZS,1.5 Comfort 78 kW (106 CV),Gasolina,106.0,9000.0,Suv y 4x4,,Manual,0.0,,5.0,Naranja
+561,49300,Alfa Romeo,Giulia,2.0 Gasolina 147kW (200CV) RWD Sprint,Gasolina,200.0,10.0,Sedán / Berlina,2022.0,Automático,0.0,,4.0,Blanco
+562,28900,Volkswagen,Tiguan,Life 1.5 TSI 110kW (150CV) DSG,Gasolina,149.0,49641.0,Suv y 4x4,2022.0,Automático,0.0,,5.0,Blanco
+563,29500,Nissan,Qashqai,1.3 DIG-T MHEV 116KW N-CONNECTA DCT 158 5P,Híbrido,158.0,16650.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Azul
+564,25900,Citroen,C5 Aircross,1.5 BLUEHDI 130 S&S SHINE AUTO 131 5P,Diesel,131.0,59740.0,Suv y 4x4,2021.0,Automático,0.0,,5.0,Blanco
+565,20400,Peugeot,208,HYBRID 100 eDCS6 Active,Híbrido,100.0,10.0,,2024.0,Automático,0.0,,5.0,Blanco
+566,18450,Fiat,Tipo,1.6 MULTIJET RED 130 5P,Diesel,130.0,,,2023.0,Manual,0.0,,5.0,Blanco
+567,16800,Opel,Crossland X,1.2 81KW EDITION S,Gasolina,110.0,66566.0,Suv y 4x4,2019.0,Manual,0.0,,5.0,Gris
+568,27900,Lynk & Co,01,1.5 PHEV 192KW 5P,Híbrido,261.0,29631.0,Suv y 4x4,2021.0,Automático,0.0,,5.0,Azul
+569,23950,Mini,Cooper,1.5 GASOLINA 136CV AUT 5P,,136.0,42668.0,Suv y 4x4,2022.0,Automático,0.0,,5.0,Gris
+570,27900,Opel,Astra,GS 1.2T 130CV MT6 5P,,130.0,20.0,,2024.0,Manual,0.0,,5.0,Plateado
+571,13185,Fiat,Tipo,1.3 MULTIJET MIRROR SW 95 5P,Diesel,95.0,87534.0,Familiar,2020.0,Manual,0.0,,5.0,Azul
+572,25900,Ford,Focus,1.0 ECOBOOST MHEV 114KW ST-LINE X 155 5P,Híbrido,155.0,10110.0,,2023.0,Manual,0.0,,5.0,Azul
+573,33990,Kia,Niro,1.6 GDi HEV 104kW (141CV) Emotion,Híbrido,141.0,,,2023.0,Automático,0.0,,5.0,Rojo
+574,26300,Kia,Ceed SW,Ceed Tourer 1.6 GDI PHEV ETECH TOURER 141 5P,Híbrido,141.0,25061.0,Familiar,2022.0,Automático,0.0,,5.0,Rojo
+575,10900,Ford,Mondeo,2.0I TREND 145CV 5P,Gasolina,145.0,115181.0,,2007.0,Manual,0.0,,5.0,Negro
+576,25500,Volkswagen,T-Roc,ADVANCE STYLE 1.5 TSI 150 CV DSG 5P,,150.0,32962.0,Suv y 4x4,2022.0,Automático,0.0,,5.0,Amarillo
+577,37450,Nissan,X Trail,X-Trail 1.5 HEV E-POWER 204 N-CONNECTA 204 5P,Híbrido,204.0,21744.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Gris
+578,34990,Kia,EV6,"GT-LINE RWD L.RANGE MY23 229 Cv 77,4 Kwh 528 Kms (WLTP)",Eléctrico,,54434.0,Suv y 4x4,2022.0,Automático,0.0,,5.0,Negro
+579,35790,Citroen,C5 X,1.6 Plug in Hybrid 225CV EAT8 Shine AUTO 165KW,Híbrido,225.0,30754.0,,2022.0,Automático,0.0,,5.0,Azul
+580,26980,Kia,Ceed,1.0 T-GDI 74KW STYLE EDITION 100CV 5P,Gasolina,100.0,10150.0,,2024.0,Manual,0.0,,5.0,Gris
+581,53699,DS,DS 7 Crossback,7 E-TENSE 4x4 300 RIVOLI,Híbrido,300.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Gris
+582,31090,Volvo,XC40,XC 40 1.5 T2 Core Auto,Gasolina,,18951.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Negro
+583,42230,BYD,Seal U,72 kWh Comfort,Eléctrico,217.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Gris
+584,27490,Mercedes,Clase A,Sedán A 200,Gasolina,163.0,58703.0,Sedán / Berlina,2019.0,Manual,0.0,,4.0,Negro
+585,28900,Citroen,C5 Aircross Hybrid,100kW (136CV) e-DCS6 Plus,Híbrido,136.0,12360.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Blanco
+586,61419,Mazda,CX-60,e-Skyactiv PHEV AWD Homura,Híbrido,327.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Rojo
+587,27900,Ford,Focus,1.0 ECOBOOST MHEV 92KW ST-LINE X 125CV 5P,Híbrido,125.0,10.0,,2024.0,Manual,0.0,,5.0,Plateado
+588,27540,Nissan,Juke,1.6 HYBRID HEV TEKNA AUTO 143 5P,Híbrido,143.0,30170.0,Suv y 4x4,2022.0,Automático,0.0,,5.0,Blanco
+589,10794,Citroen,C3,1.6 BLUEHDI 55KW 75CV 5P MANUAL,Diesel,75.0,140531.0,,2018.0,Manual,0.0,,5.0,Blanco
+590,42490,Mazda,CX-60,Exclusive Line eSkyactiv D MHEV 147kw 8AT 3.3 200CV,Híbrido,,10.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Rojo
+591,13490,Fiat,500,1.0 Hybrid 51kw (70CV) Dolcevita,Híbrido,70.0,36096.0,,2023.0,Manual,0.0,,3.0,Negro
+592,26900,Kia,Niro,BEV 64KWH E-NIRO EMOTION 204 5P,Eléctrico,204.0,9569.0,,2022.0,Automático,0.0,,5.0,Rojo
+593,42990,Alfa Romeo,Tonale,1.3 Multi-air PHEV Sprint Q4,Híbrido,280.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Blanco
+594,77255,Ford,Mustang,5.0 Ti-VCT V8 Mustang Dark H AT(Fastsb.),Gasolina,459.0,,Deportivo o coupe,2024.0,Automático,0.0,,2.0,Azul
+595,36900,Volvo,XC40,BEV 82KWH RECHARGE EXTENDED RANGE CORE 5P,Híbrido,252.0,22838.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Azul
+596,22400,Citroen,Berlingo,BLUE HDi 100 S&S PLUS talla M,Diesel,100.0,15.0,Familiar,2024.0,Manual,0.0,,5.0,Negro
+597,42230,BYD,Seal U,72 kWh Comfort,Eléctrico,217.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Gris
+598,12900,Fiat,500,Dolcevita 1.0 Hybrid 51KW (70 CV),Híbrido,69.0,25617.0,,2023.0,Manual,0.0,,3.0,Gris
+599,26800,Peugeot,2008,ALLURE PACK 1.2 PURETECH 130CV MAN,Gasolina,130.0,1695.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Rojo
+600,16990,Seat,Ibiza,1.0 TSI 85kW (115CV) FR Go,Gasolina,115.0,27300.0,,2020.0,Manual,0.0,,5.0,Blanco
+601,37290,Nissan,X Trail,X-Trail 1.5 EREV E-POWER 204 N-CONNECTA 204 5P,Híbrido,204.0,17976.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Blanco
+602,38650,Subaru,crosstrek,2.0i Hybrid CVT 136cv TOURING,Híbrido,136.0,15.0,Sedán / Berlina,2024.0,Automático,0.0,,5.0,Azul
+603,43900,Volvo,EX30,BEV 69KWH SINGLE MOTOR EXT. RANGE ULTRA 5P,Eléctrico,272.0,25.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Negro
+604,37200,Opel,Mokka-e,Mokka - E GS LINE BEV 136CV,Eléctrico,136.0,820.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Blanco
+605,23500,Peugeot,Rifter,Active Long PureTech 81kW,Gasolina,110.0,55691.0,,2020.0,Manual,0.0,,5.0,Gris
+606,10490,Kia,Picanto,1.0 DPI 49KW (67CV) CONCEPT,Gasolina,67.0,67553.0,,2021.0,Manual,0.0,,5.0,Negro
+607,20790,Seat,Leon,1.0 TSI 81kW S&S Style,Gasolina,110.0,8600.0,,2023.0,Manual,0.0,,5.0,
+608,13190,Fiat,500,1.0 Hybrid 51kw (70CV) Dolcevita,Híbrido,,32837.0,,2023.0,Manual,0.0,,3.0,Blanco
+609,21790,Peugeot,2008,SUV  GT Puretech 130 S&S 6 Vel. MAN.,,,21842.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Azul
+610,19090,Kia,Ceed,1.0 T-GDI 74KW DRIVE 100CV 5P,Gasolina,100.0,2047.0,,2023.0,Manual,0.0,,5.0,Negro
+611,28995,Nissan,Leaf,62kWh e+ N-Connecta 160 kW (217 CV),Eléctrico,217.0,1900.0,,2023.0,Automático,0.0,,5.0,Negro
+612,28700,Mazda,Mazda3,e-SKYACTIV-G 90KW EXCLUSIVE-LINE PLUS,Híbrido,122.0,,,2024.0,Manual,0.0,,5.0,Blanco
+613,27990,BYD,Dolphin,Comfort,Eléctrico,204.0,,,2024.0,Automático,0.0,,5.0,Blanco
+614,31810,Mazda,CX-30,e-SKYACTIV G MHEV 103kW Nagisa,Híbrido,140.0,,Suv y 4x4,2024.0,Manual,0.0,,5.0,Plateado
+615,14490,Fiat,500,C 1.0 Hybrid 51kw (70CV) Dolcevita Cabrio,Híbrido,70.0,43278.0,,2022.0,Manual,0.0,,3.0,Azul
+616,26000,Fiat,500,3+1 320km 85kW (118CV) Icon,Eléctrico,118.0,10.0,,2022.0,Automático,0.0,,4.0,Blanco
+617,36370,Kia,XCeed,1.6 T-GDi GT-line 150kW (204CV) DCT,Gasolina,204.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Rojo
+618,42000,Mazda,MX5,MX-5 2.0 SKYACTIV-G 135 kW (184 CV) MT Homura,Gasolina,183.0,,Cabrio,2024.0,Manual,0.0,,2.0,Gris
+619,33500,Subaru,crosstrek,2.0i Hybrid CVT 136cv TOURING,Híbrido,136.0,12600.0,Sedán / Berlina,2024.0,Automático,0.0,,5.0,Plateado
+620,33500,Volvo,V 60,V60 familiar 2.0 D4 BUSINESS PLUS AUTO 5P,Diesel,190.0,53950.0,Familiar,2021.0,Automático,0.0,,5.0,Plateado
+621,27500,Nissan,Qashqai,DIG-T 140 mHEV N-Connecta 4x2 103 kW (140 CV),Híbrido,140.0,4743.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Negro
+622,19650,Ford,Ecosport,1.0T ECOBOOST 92KW ACTIVE 125 5P,Gasolina,125.0,33582.0,Suv y 4x4,2021.0,Manual,0.0,,5.0,Rojo
+623,38890,Citroen,C5 Aircross Hybrid,1.6 HYBRID 225 SHINE PACK AUTO 225 5P,Híbrido,225.0,3.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Azul
+624,33390,Peugeot,3008,NSUV 3008 GT PACK PLUG-IN HYBRID 225 E-EAT8,Híbrido,225.0,31000.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Azul
+625,35900,Volvo,XC40,1.5 T2 CORE AUTO 5P,,129.0,20083.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Verde
+626,16290,Opel,Corsa,Nuevo GS 1.2T XHL MT6 S/S 100 CV (74kW),Gasolina,,11951.0,,2024.0,Manual,0.0,,5.0,Blanco
+627,38990,Volvo,XC 60,XC60 B4 (gasolina) Core Pro Auto,Híbrido,,21047.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Gris
+628,27900,Citroen,ë-C4,eléctrico 100kW 50kWh Shine,Eléctrico,136.0,27864.0,,2023.0,Automático,0.0,,5.0,Gris
+629,69980,Kia,EV9,BEV 99.8KWH 283KW GT-LINE AWD 7-SEATER 384 5P 7 Plazas,Eléctrico,384.0,5814.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Blanco
+630,26890,Kia,Niro,1.6 GDI PHEV DRIVE 183 5P,Híbrido,183.0,19620.0,,2023.0,Automático,0.0,,5.0,Blanco
+631,29900,Citroen,C5 Aircross Hybrid,100kW (136CV) e-DCS6 Plus,Híbrido,136.0,1400.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Gris
+632,24990,DS,DS4,4 CROSS PureTech 130 automßtico RIVOLI,Gasolina,,16432.0,,2022.0,Automático,0.0,,5.0,Gris
+633,23220,Citroen,C4,Nuevo BlueHDi 130 S&S EAT8 BUSINESS EDITION,Diesel,,10.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Gris
+634,38200,Jeep,Avenger,ALTITUDE BEV 156CV 5P,Eléctrico,156.0,4000.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Blanco
+635,26950,Ford,Tourneo Courier,1.0 ECOBOOST 92KW TITANIUM 125CV 5P,Gasolina,125.0,745.0,,2024.0,Manual,0.0,,5.0,Negro
+636,22500,Peugeot,2008,ALLURE PACK 1.2 PURETECH 100CV 5P,Gasolina,100.0,8186.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Oro
+637,18990,Fiat,Panda,Pandina 1.0 Hybrid 51kW (70cv),Híbrido,69.0,,,2024.0,Manual,0.0,,5.0,Blanco
+638,27990,Opel,Mokka-e,BEV 50kWh 100kW (136CV) GS-e,Eléctrico,136.0,3500.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Rojo
+639,26900,DS,DS 7 Crossback,2.0 BLUEHDI PERFORMANCE LINE AUTO 180 5P,Diesel,180.0,65344.0,Suv y 4x4,2020.0,Automático,0.0,,5.0,Gris
+640,22250,Kia,Stonic,1.0 T-GDi 74kW (100CV) MHEV iMT Concept,Híbrido,100.0,,Suv y 4x4,2023.0,Manual,0.0,,5.0,Blanco
+641,18900,Opel,Corsa,ELEGANCE 1.2T XHL 100 CV AUTO 5P,Gasolina,100.0,16742.0,,2022.0,Automático,0.0,,5.0,Gris
+642,20500,Kia,Stonic,STYLE EDITION 1.0 T-GDI MHEV 100 CV 5P,Híbrido,100.0,13638.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Gris
+643,37300,Volvo,XC40,1.5 T4 RECHARGE CORE DCT 5P,Eléctrico,211.0,1160.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Azul
+644,15980,Opel,Grandland X,1.2 TURBO ULTIMATE 130CV 5P,Gasolina,130.0,46941.0,,2019.0,Manual,0.0,,5.0,Gris
+645,37900,Volkswagen,Tiguan,LIFE 1.5 TSI 150 CV DSG 5P,Gasolina,150.0,27217.0,Suv y 4x4,2022.0,Automático,0.0,,5.0,Varios colores
+646,35290,Kia,Niro,1.6 GDI PHEV DRIVE 183CV 5P,Híbrido,183.0,23188.0,,2023.0,Automático,0.0,,5.0,Blanco
+647,33990,Jeep,Avenger,BEV 54KWH SUMMIT 156 5P,Eléctrico,156.0,26600.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Negro
+648,27990,Mazda,Mazda3,2.5L E-SKY G MHEV 103kW Homura,Híbrido,140.0,,,2024.0,Manual,0.0,,5.0,Rojo
+649,35665,JAECOO,7,1.6T 108kW (145CV) DCT Exclusive,,146.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Verde
+650,31500,MG,MG5,LONG RANGE LUXURY,Eléctrico,154.0,5000.0,Familiar,2024.0,Automático,0.0,,5.0,Negro
+651,28500,Kia,Niro,1.6 GDI PHEV DRIVE 183 5P,Híbrido,183.0,722.0,,2023.0,Automático,0.0,,5.0,Blanco
+652,39900,Kia,EV3,BEV EARTH AUTO 204CV 5P,Eléctrico,204.0,1471.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Blanco
+653,18490,Dacia,Duster,Prestige Bl. dCi 85kW(115CV) 4X2,Diesel,115.0,44390.0,Suv y 4x4,2021.0,Manual,0.0,,5.0,Rojo
+654,47500,Peugeot,508,Plug-in Hybrid 225 e-EAT8 GT,Híbrido,225.0,,,2023.0,Automático,0.0,,5.0,
+655,22990,Seat,Ateca,STYLE GO 1.5 TSI 150CV S,,150.0,40738.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Azul
+656,18990,Kia,Ceed,5P 1.0 T-GDI DRIVE 120 MY24,Gasolina,,13234.0,,2024.0,Manual,0.0,,5.0,Azul
+657,25500,OMODA,5,1.6 T-GDI DCT PREMIUM 185CV 5P,Gasolina,185.0,4900.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Azul
+658,20950,Peugeot,2008,N2008 ACTIVE PACK 1.2 PURETECH 100 CV 5P,,100.0,14000.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Rojo
+659,58650,Polestar,2,Long Range Dual Motor Performance AWD,Eléctrico,476.0,,,2024.0,Automático,0.0,,5.0,Blanco
+660,25890,DS,DS 3 Crossback,1.5 BLUEHDI 96KW PERFORMANCE LINE AUTO 130 5P,Diesel,130.0,10700.0,Suv y 4x4,2022.0,Automático,0.0,,5.0,Gris
+661,28995,Alfa Romeo,Tonale,1.6 DS 130 CV SPRINT FWD,Diesel,130.0,3000.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Rojo
+662,20190,Peugeot,2008,SUV  Allure Pack Puretech 130 S&S 6 Vel. MAN.,,,18621.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Gris
+663,13590,Citroen,C4 Picasso,1.6 BLUEHDI 120 FEEL AUTO 120CV 5P,Diesel,120.0,127500.0,Monovolumen,2016.0,Automático,0.0,,5.0,Marrón
+664,41000,Kia,e-Niro,150kW Concept (Long Range),Eléctrico,204.0,,,2024.0,Automático,0.0,,5.0,Blanco
+665,13500,Ford,Transit,Connect FG 1.0T 200 L1 100 CV 4P,,100.0,58358.0,Monovolumen,2019.0,Manual,0.0,,4.0,Blanco
+666,50900,Subaru,Solterra,Eléctrico (160kW / 218CV) TOURING,Eléctrico,218.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,
+667,35500,Volvo,XC40,2.0 B3 CORE AUTO 5P,,163.0,23199.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Rojo
+668,24590,Kia,XCeed,1.6 T-GDi Emotion DCT 204CV (Pack,Gasolina,204.0,73918.0,Suv y 4x4,2022.0,Automático,0.0,,5.0,Negro
+669,38490,Citroen,C5 Aircross Hybrid,1.6 HYBRID 225CV SHINE PACK AUTO 5P,Híbrido,225.0,17274.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Gris
+670,38700,Kia,Sportage,1.6 T-GDI HEV TECH AUTO 230 5P,Híbrido,230.0,16458.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Gris
+671,46900,Mazda,CX-60,3.3 D MHEV 147KW EXCLUSIVE-LINE PACK CONFORT AUTO 200CV 5P,Híbrido,200.0,47.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Gris
+672,20300,Kia,Stonic,1.2 DPi 62kW (84CV) Drive,Gasolina,84.0,,Suv y 4x4,2024.0,Manual,0.0,,5.0,Gris
+673,23950,Peugeot,Rifter,GT PURETECH 130 S&S EAT8 STANDARD,Gasolina,130.0,50510.0,Monovolumen,2022.0,Automático,0.0,,5.0,Marrón
+674,21900,Citroen,C4,PureTech 130 S&S 6v Shine,Gasolina,130.0,19000.0,Sedán / Berlina,2022.0,Manual 6 vls.,12.0,5.0,5.0,Blanco
+675,13600,Citroen,C3 Aircross,PureTech 81kW (110CV) S&S Feel,Gasolina,110.0,43210.0,Suv y 4x4,2018.0,Manual 6 vls.,12.0,5.0,5.0,Rojo
+676,12500,Fiat,500,1.0 Hybrid 51KW (70 CV) Connect,Gasolina,70.0,10522.0,Sedán / Berlina,2021.0,Manual 6 vls.,12.0,4.0,3.0,Blanco
+677,34900,Peugeot,3008,1.2 100KW eDCS6 Allure,Gasolina,136.0,1002.0,Suv y 4x4,2024.0,Automático 6 vls.,24.0,5.0,5.0,Azul
+678,19000,Citroen,C3 Aircross,PureTech 81kW (110CV) Plus,Gasolina,110.0,6920.0,Suv y 4x4,2024.0,Manual 6 vls.,24.0,5.0,5.0,Blanco
+679,15100,Opel,Corsa,1.2T XHL 74kW (100CV) GS-Line,Gasolina,100.0,14791.0,Sedán / Berlina,2022.0,Manual 6 vls.,12.0,5.0,5.0,Naranja
+680,32700,Citroen,C4,ë-C4 eléctrico 100kW 50kWh Feel Pack,Eléctrico,136.0,10.0,Sedán / Berlina,2024.0,Automático 1 vls.,24.0,5.0,5.0,Blanco
+681,19600,Citroen,C3 Aircross,PureTech 81kW (110CV) Plus,Gasolina,110.0,15025.0,Suv y 4x4,2024.0,Manual 6 vls.,24.0,5.0,5.0,Gris
+682,21000,DS,DS 3 Crossback,PureTech 96kW (130CV) Performance Line,Gasolina,130.0,47977.0,Suv y 4x4,2020.0,Automático 8 vls.,12.0,5.0,5.0,Blanco
+683,18700,Citroen,C3 Aircross,PureTech 81kW (110CV) S&S C-Series,Gasolina,110.0,16983.0,Suv y 4x4,2023.0,Manual 6 vls.,24.0,5.0,5.0,Gris
+684,15800,Citroen,C3 Aircross,BlueHDi 81kW (110CV) S&S Rip Curl,Diesel,110.0,78213.0,Suv y 4x4,2021.0,Manual 6 vls.,12.0,5.0,5.0,Negro
+685,21500,Opel,Grandland X,1.5 CDTi Auto Ultimate,Diesel,130.0,21313.0,Suv y 4x4,2020.0,Automático 8 vls.,12.0,5.0,5.0,Blanco
+686,18300,Peugeot,208,BlueHDi 73kW (100CV) Allure Pack,Diesel,100.0,23000.0,Sedán / Berlina,2023.0,Manual 6 vls.,24.0,5.0,5.0,Gris
+687,23400,Jeep,Avenger,1.2 G 74kW (100CV) Altitude,Gasolina,100.0,22027.0,Suv y 4x4,2024.0,Manual 6 vls.,24.0,5.0,5.0,Beige
+688,18900,Jeep,Compass,1.3 Gse T4 96kW (130CV) MT FWD Sport,Gasolina,130.0,28000.0,Suv y 4x4,2021.0,Manual 6 vls.,12.0,5.0,5.0,Blanco
+689,5800,Fiat,Panda,FIAT PANDA 1.2 POP 70CV DE MAYO 2012,Gasolina,70.0,167815.0,Pequeño o compacto,2012.0,Manual 5 vls.,0.0,5.0,5.0,Blanco
+690,5450,Opel,Combo,OPEL COMBO 1.3 CDTI 75CV DEL 4-11-2009 CON 153.661KM,Diesel,75.0,153661.0,Furgoneta / Camión,2009.0,Manual 5 vls.,0.0,2.0,5.0,Blanco
+691,4250,Fiat,Grande punto,FIAT GRANDE PUNTO EVO SPORT,Diesel,75.0,157000.0,Pequeño o compacto,2010.0,Manual 5 vls.,0.0,5.0,3.0,Azul
+692,9500,Renault,Kangoo,Furgón 1.5DCi 75 CV  12/2018,Diesel,75.0,135698.0,Furgoneta / Camión,2018.0,Manual 5 vls.,12.0,2.0,,Blanco
+693,15450,Land Rover,Range Rover Sport,RANGE ROVER SPORT HSE 3.0 V6 BITURBO 245CV,Diesel,245.0,1.0,Suv y 4x4,2011.0,Automático,12.0,5.0,5.0,Negro
+694,21900,Opel,Mokka,1.2 T 96kW (130 CV) GS Line,Gasolina,130.0,14822.0,Suv y 4x4,2022.0,Manual 6 vls.,12.0,5.0,5.0,Rojo
+695,35390,Volkswagen,ID.4,Pro Performance 204CV,Eléctrico,204.0,9090.0,Suv y 4x4,2022.0,Automático 6 vls.,24.0,5.0,5.0,Blanco
+696,25350,Honda,Civic,1.5 VTEC Turbo Sport,Gasolina,182.0,84000.0,Sedán / Berlina,2018.0,Manual,12.0,5.0,5.0,Gris
+697,38990,BMW,Serie 4,430i,Gasolina,252.0,53120.0,Cabrio,2018.0,Automático 7 vls.,12.0,4.0,2.0,Negro
+698,35890,Volvo,XC 60,2.0 RDesign Auto,Gasolina,250.0,62990.0,Suv y 4x4,2018.0,Automático,12.0,5.0,5.0,Plateado
+699,36400,Audi,Q3,Sportback 35 TFSI S tronic,Gasolina,150.0,121394.0,Suv y 4x4,2021.0,Automático 7 vls.,12.0,5.0,5.0,Negro
+700,39190,Audi,A5,a5 S5 3.0 TFSI tiptronic quattro Sportback 354CV,Gasolina,354.0,114580.0,Sedán / Berlina,2019.0,Automático,12.0,5.0,5.0,Gris
+701,95090,Audi,A6,RS6 Avant 4.0 TFSI quattro,Gasolina,600.0,109171.0,Familiar,2020.0,Automático,12.0,4.0,2.0,Gris
+702,495000,Lamborghini,Huracan,STO 650CV FULL CARBON 2p.,Gasolina,650.0,3800.0,Deportivo o coupe,2023.0,Automático 8 vls.,36.0,2.0,2.0,Verde
+703,58990,Subaru,WRX STi,2.5 RALLY EDITION AWD 300CV,Gasolina,300.0,13166.0,Sedán / Berlina,2019.0,Manual 7 vls.,12.0,5.0,4.0,Azul
+704,40250,Volkswagen,Golf,GTI TCR 2.0 TSI 290CV DSG 5p.,Gasolina,290.0,45990.0,Sedán / Berlina,2020.0,Automático 7 vls.,12.0,5.0,5.0,Negro
+705,48490,BMW,Serie 3,330i M Performance 4p.,Gasolina,258.0,14500.0,Sedán / Berlina,2020.0,Automático 8 vls.,12.0,5.0,4.0,Azul
+706,33090,BMW,Serie 1,120,Gasolina,178.0,28000.0,Sedán / Berlina,2021.0,Automático,12.0,5.0,5.0,Blanco
+707,550000,Lamborghini,Urus,PERFOMANTE 666CV FULL CARBONO,Gasolina,666.0,50.0,Suv y 4x4,2024.0,Automático 8 vls.,12.0,5.0,4.0,Rojo
+708,33290,Ford,Focus,2.3 EcoBoost RS,Gasolina,350.0,110130.0,Sedán / Berlina,2017.0,Manual,12.0,5.0,4.0,Azul
+709,26500,Audi,A4 Allroad Quattro,2.0 TDI,Diesel,190.0,89000.0,Familiar,2015.0,Automático,12.0,2.0,3.0,Negro
+710,58090,Porsche,Cayenne,S E-Híbrido,Híbrido,416.0,27000.0,Suv y 4x4,2016.0,Automático,0.0,5.0,5.0,Negro
+711,11390,Fiat,500,Lounge 1.2 8v 51KW 69 CV 3p.,Gasolina,70.0,14508.0,Sedán / Berlina,2020.0,Manual,12.0,5.0,5.0,Gris
+712,36490,Audi,A3,45 TFSI S-Line 5p.,Híbrido,245.0,39200.0,Sedán / Berlina,2021.0,Automático 7 vls.,12.0,5.0,5.0,Rojo
+713,43260,Porsche,Macan,S Diesel 5p.,Diesel,258.0,96591.0,Suv y 4x4,2015.0,Automático 9 vls.,12.0,5.0,5.0,Negro
+714,29990,Mercedes,Clase SLK,200 2p,Gasolina,184.0,39541.0,Cabrio,2015.0,Automático,12.0,5.0,4.0,Negro
+715,28090,Cupra,Formentor,1.4 eHybrid 204 CV DSG,Híbrido,204.0,29000.0,Suv y 4x4,2022.0,Automático,12.0,5.0,5.0,Blanco
+716,28690,Volkswagen,Golf,GTI Performance 2.0,Gasolina,245.0,37400.0,Sedán / Berlina,2019.0,Manual,12.0,2.0,3.0,Rojo
+717,28990,Hyundai,i30,2.0 TGDI 202kW 275CV N Performance Sky 5p.,Gasolina,275.0,74618.0,Sedán / Berlina,2019.0,Manual,12.0,5.0,5.0,Negro
+718,35990,BMW,Serie 3,320d Auto. 4p.,Híbrido,190.0,95996.0,Sedán / Berlina,2021.0,Automático 7 vls.,12.0,5.0,4.0,Negro
+719,35190,Audi,A5,Sportback 3.0 TDI,Diesel,286.0,76659.0,Sedán / Berlina,2018.0,Automático,12.0,5.0,5.0,Negro
+720,46790,Porsche,Macan,S,Gasolina,250.0,74750.0,Suv y 4x4,2017.0,Automático,12.0,4.0,2.0,Blanco
+721,339000,Lamborghini,Aventador,6.5 V12 LP 700-4 2p.,Gasolina,700.0,43596.0,Deportivo o coupe,2013.0,Automático 9 vls.,12.0,2.0,2.0,Negro
+722,49890,Toyota,GR Supra,GR 2.0,Gasolina,306.0,46200.0,Deportivo o coupe,2021.0,Automático,12.0,2.0,2.0,Rojo
+723,62890,BMW,M4,M4 COMPETITION,Gasolina,431.0,80000.0,Deportivo o coupe,2019.0,Automático,12.0,4.0,3.0,Naranja
+724,224000,Ferrari,458 Italia,ITALIA CARBON EDITION 570CV 2p.,Gasolina,570.0,23542.0,Deportivo o coupe,2010.0,Automático 7 vls.,36.0,2.0,2.0,Rojo
+725,28890,Volkswagen,Golf,GTI Performance 2.0 TSI 180kW 245CV 5p.,Gasolina,245.0,94520.0,Sedán / Berlina,2019.0,Manual,12.0,5.0,5.0,Negro
+726,60990,Audi,Q5 SPORTBACK,S line 45 TFSI 195kW quattro S tronic,Híbrido,265.0,37019.0,Suv y 4x4,2023.0,Automático,12.0,5.0,4.0,Negro
+727,36340,Porsche,Panamera,4.8 Turbo 5p.,Gasolina,500.0,155000.0,Sedán / Berlina,2012.0,Automático,12.0,4.0,5.0,Gris
+728,26190,Honda,Civic,1.5 IVTEC TURBO SPORT PLUS 182cv 5p.,Gasolina,182.0,99500.0,Sedán / Berlina,2019.0,Manual 6 vls.,12.0,5.0,5.0,Rojo
+729,38990,BMW,Serie 4,430i Cabrio M Performance 252cv 2p. Limited Edition,Gasolina,252.0,68800.0,Cabrio,2017.0,Automático 8 vls.,12.0,4.0,2.0,Gris
+730,40000,Audi,A3,S3 Sportback 2.0 TFSI quattro,Gasolina,310.0,103750.0,Sedán / Berlina,2020.0,Automático,12.0,5.0,5.0,Gris
+731,62980,Audi,A5,RS5 Sportback 2.9 quattro tiptronic,Gasolina,450.0,119970.0,Sedán / Berlina,2019.0,Automático,12.0,4.0,2.0,Gris
+732,36390,BMW,Serie 2,220iA Gran Coupe 4p.,Gasolina,178.0,23784.0,Sedán / Berlina,2021.0,Automático,12.0,5.0,5.0,Azul
+733,34990,BMW,Serie 2,230I SPORT LINE,Gasolina,252.0,12000.0,Deportivo o coupe,2019.0,Automático,12.0,5.0,5.0,Azul
+734,51490,BMW,Serie 4,440i,Gasolina,326.0,11117.0,Cabrio,2019.0,Automático 7 vls.,12.0,4.0,2.0,Azul
+735,50380,BMW,X5,xDrive40e M SPORT,Híbrido,313.0,50000.0,Suv y 4x4,2018.0,Automático 9 vls.,12.0,5.0,5.0,Gris
+736,48800,Mercedes,Clase A,AMG A 45 4MATIC,Gasolina,381.0,35000.0,Sedán / Berlina,2018.0,Automático,12.0,4.0,3.0,Negro
+737,35490,Audi,A6,50 TFSI e quattro,Híbrido,252.0,79000.0,Sedán / Berlina,2020.0,Automático,12.0,5.0,5.0,Negro
+738,21690,Seat,Ateca,2.0 TDI DSG 4Drive StSp Xcellence,Diesel,190.0,88942.0,Suv y 4x4,2016.0,Automático 7 vls.,12.0,5.0,5.0,Blanco
+739,94990,Audi,Q5 SPORTBACK,SQ5 TDI Quattro 5p.,Híbrido,341.0,39550.0,Suv y 4x4,2022.0,Automático 7 vls.,36.0,5.0,5.0,Gris
+740,133500,BMW,X6,M Competition 5p.,Gasolina,625.0,76121.0,Suv y 4x4,2020.0,Automático,12.0,2.0,3.0,Marrón
+741,25390,Audi,A3,E-Tron Sportback 40 204cv S tronic 5p.,Híbrido,204.0,49120.0,Sedán / Berlina,2020.0,Automático 1 vls.,12.0,5.0,5.0,Rojo
+742,54990,Audi,A3,RS3 SportBack 2.5 TFSI S tronic Quattro 5p.,Gasolina,400.0,39980.0,Sedán / Berlina,2018.0,Automático 7 vls.,12.0,5.0,5.0,Azul
+743,340000,Lamborghini,Urus,650CV FULL CARBON PACKAGE,Gasolina,650.0,13775.0,Suv y 4x4,2020.0,Automático,12.0,,,Rojo
+744,20490,Jaguar,F-Pace,2.0L AWD Auto.180cv 5p.,Diesel,180.0,126716.0,Suv y 4x4,2018.0,Automático 8 vls.,12.0,5.0,5.0,Rojo
+745,37800,Mercedes,GLE,GLE 350 d 4MATIC 5p.,Diesel,258.0,166421.0,Suv y 4x4,2017.0,Automático,12.0,5.0,4.0,Blanco
+746,26690,Volvo,S 90,2.0 T8 Twin AWD Momentum Auto 4p.,Híbrido,390.0,77376.0,Sedán / Berlina,2019.0,Automático,12.0,2.0,2.0,Negro
+747,190000,Ferrari,F430,F1,Gasolina,490.0,26000.0,Cabrio,2007.0,Automático,12.0,2.0,3.0,Azul
+748,35990,Jaguar,XE,S P300,Gasolina,300.0,73000.0,Sedán / Berlina,2020.0,Automático,12.0,4.0,2.0,Blanco
+749,32440,BMW,Serie 3,330e Advantage,Híbrido,306.0,113300.0,Sedán / Berlina,2020.0,Automático,12.0,5.0,5.0,Negro
+750,38190,Renault,Megane,RS Trophy TCe EDC,Gasolina,300.0,35890.0,Sedán / Berlina,2019.0,Manual,12.0,5.0,5.0,Blanco
+751,27090,Renault,Clio,RS Trophy Energy 220CV EDC,Gasolina,220.0,62400.0,Sedán / Berlina,2018.0,Automático 6 vls.,12.0,4.0,5.0,Amarillo
+752,131490,Audi,R8,Coupé V10 FSI quattro S tronic,Gasolina,540.0,88200.0,Deportivo o coupe,2020.0,Automático 7 vls.,12.0,5.0,5.0,Blanco
+753,66490,Porsche,718,Cayman S 3p.,Gasolina,350.0,90400.0,Deportivo o coupe,2017.0,Automático 8 vls.,12.0,5.0,5.0,Rojo
+754,36490,Volkswagen,ID.4,Pure Performance 170CV Auto 5p,Eléctrico,170.0,9.0,Suv y 4x4,2022.0,Automático 7 vls.,24.0,5.0,5.0,Varios colores
+755,36800,Volvo,XC40,1.5 T4 PHEV RECHARGE PLUS DARK DCT 5P,Híbrido,211.0,21443.0,Suv y 4x4,2022.0,Automático,0.0,,5.0,Blanco
+756,33900,Citroen,C5 X,1.6 HYBRID 225 SHINE AUTO 225 5P,Híbrido,225.0,35332.0,,2022.0,Automático,0.0,,5.0,Gris
+757,34900,Alfa Romeo,Tonale,1.6 TD 96 KW DCT SPRINT 130 5P,Diesel,130.0,17984.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Gris
+758,15990,Hyundai,i30,FB 1.0 TGDI Link 120,,,43000.0,,2018.0,Manual,0.0,,5.0,Blanco
+759,14250,Opel,Corsa,1.5 TD Edition DT 75 kW (102 CV),,,74000.0,,2022.0,,0.0,,2.0,Blanco
+760,36790,Mercedes,Vito,116CDI AT 120kW Tourer Pro Larga,,,121729.0,,2021.0,,0.0,,2.0,Negro
+761,22490,Mercedes,Clase E,220 BlueTEC Sport,Diesel,170.0,69418.0,Sedán / Berlina,2014.0,Automático,0.0,,4.0,Blanco
+762,33900,Nissan,Primastar,FURGÓN L2H1 96KW 130CV N-CONNECTA 2 PLAZAS,Diesel,130.0,,Monovolumen,2024.0,Manual,0.0,,,Blanco
+763,23500,MG,HS,1.5T-GDI LUXURY 162 5P,Gasolina,162.0,11925.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Gris
+764,21800,Opel,Crossland X,Crossland GS 1.2T 110CV MT6,,110.0,17250.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Negro
+765,31900,Mitsubishi,Asx,1.6 160 PHEV KAITEKI AUTO 159 5P,Híbrido,160.0,32268.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Blanco
+766,7990,Ford,S-Max,.0 TDCI Trend 85 kW (115 CV),,,196070.0,,2010.0,,0.0,,2.0,Blanco
+767,9200,Fiat,Doblo,Panorama 1.6 Multijet Easy 70kW (95CV),,,118014.0,,2018.0,,0.0,,2.0,
+768,27490,Suzuki,S-Cross,"Nuevo Suzuki 1,4 S-3 Mild Hybrid",Híbrido,129.0,10.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Rojo
+769,31500,Mazda,CX-5,2.0 G 121KW MHEV ADVANTAGE 2WD 165 5P,Híbrido,165.0,19556.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Rojo
+770,36700,Nissan,Qashqai,E-POWER 140 KW (190 CV) N-Connecta,Híbrido,190.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Azul
+771,18890,DS,DS 7 Crossback,BlueHDi DE 96kW (130CV) AT. PERF.LINE,Diesel,130.0,109527.0,Suv y 4x4,2019.0,Automático,0.0,,5.0,Negro
+772,38650,Subaru,crosstrek,2.0i Hybrid CVT 136cv TOURING,Híbrido,136.0,15.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Azul
+773,27990,Kia,XCeed,1.6 PHEV Tech HYBRIDO ENCHUFABLE,Híbrido,,1736.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Rojo
+774,21450,Alfa Romeo,Stelvio,2.2 Diésel 110kW (150CV) Super RWD,,,157006.0,,2018.0,,0.0,,2.0,Azul
+775,45850,Peugeot,508,5P HYBRID 225 e-EAT8 Allure,Híbrido,225.0,10.0,,2024.0,Automático,0.0,,5.0,Azul
+776,10690,Fiat,500,1.0 Hybrid Dolcevita 51 kW (70 CV),,,65518.0,,2021.0,,0.0,,2.0,Blanco
+777,14850,Renault,Clio,BUSINESS 1.0 TCE 90 CV 5P,,90.0,20998.0,,2022.0,Manual,0.0,,5.0,Gris
+778,48990,Kia,Sorento,1.6 T-GDI PHEV DRIVE 4WD 265 5P 7 Plazas,Híbrido,265.0,6030.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Azul
+779,12590,Citroen,C3,1.2 PURETECH SHINE 83 5P,Gasolina,83.0,50377.0,,2021.0,Manual,0.0,,5.0,Negro
+780,37990,Honda,e:NY1,ADVANCE 204CV BEV 69KWH 5P,Eléctrico,204.0,1250.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Blanco
+781,29849,Ford,Puma,1.0 EcoBoost 125cv ST-Line X MHEV,Híbrido,125.0,,Suv y 4x4,2024.0,Manual,0.0,,5.0,Rojo
+782,22450,Volkswagen,Arteon,2.0 TDI 110 kW (150 CV),Diesel,150.0,129252.0,Sedán / Berlina,2019.0,,0.0,,5.0,Gris
+783,12990,Fiat,500,1.0 Hybrid 51kw (70CV) Dolcevita,Híbrido,,36347.0,,2023.0,Manual,0.0,,3.0,Blanco
+784,17990,Kia,Ceed,1.0 T-GDi Concept 88 kW (120 CV),,,45000.0,,2024.0,,0.0,,2.0,Gris
+785,33210,Ford,Focus,1.0 Ecoboost MHEV 92kW ST-Line X,Híbrido,125.0,,,2024.0,Manual,0.0,,5.0,Rojo
+786,39900,Land Rover,Range Rover Sport,2.0 Si4 221 kW (300 CV) HSE,Gasolina,300.0,140258.0,Suv y 4x4,2019.0,Automático,0.0,,5.0,Gris
+787,49490,Volvo,XC 60,XC60 B4 Bright Plus (D) Automatic,Híbrido,,8547.0,Suv y 4x4,2022.0,Automático,0.0,,5.0,Negro
+788,10490,Fiat,Tipo,1.3 Mjt S&S 5p. Lounge,Diesel,95.0,64800.0,Sedán / Berlina,2019.0,,0.0,,5.0,Azul
+789,46800,Volvo,XC 60,XC60 2.0 B4 D CORE AUTO 5P,Diesel,197.0,5.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Plateado
+790,37900,Skoda,Kodiaq,RS 2.0 TDI DSG 4WD 239 CV 5P,Diesel,239.0,55290.0,Suv y 4x4,2020.0,Automático,0.0,,5.0,Blanco
+791,31500,Ford,Tourneo Connect,2.0 ECOBLUE 75KW TITANIUM 102 5P,Diesel,102.0,24396.0,,2024.0,Manual,0.0,,5.0,Negro
+792,15490,Hyundai,Tucson,1.6 GDI SLE 4x2 97kW (132CV),Gasolina,132.0,141211.0,Suv y 4x4,2019.0,,0.0,,5.0,
+793,28990,Kia,EV6,BEV 58KWH 125KW AIR RWD AUTO 170 5P,Eléctrico,170.0,16461.0,Suv y 4x4,2022.0,Automático,0.0,,5.0,Rojo
+794,17990,Seat,Arona,1.0 TSI 81 KW (110CV) 6 VEL Start/Stop XS EXPERIENCE,Gasolina,110.0,39979.0,,2023.0,,0.0,,2.0,Blanco
+795,38900,Kia,Sportage,"DRIVE (17"") 1.6 T-GDI PHEV 252 CV 4X4",Híbrido,252.0,5985.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Blanco
+796,29500,Mazda,MX-30,R-EV PHEV 170CV  ADVANTAGE MODERN HYBRID ENCHUFABLE,Eléctrico,170.0,6000.0,Suv y 4x4,2023.0,Automático 1 vls.,36.0,5.0,5.0,Rojo
+797,37500,Nissan,X Trail,X-Trail 1.5 VC Turbo MHEV N-Connecta Xtronic 120 kW (163 CV),Híbrido,163.0,25.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Negro
+798,30250,Mazda,Mazda3,2.0L E-SKY X MHEV 137kW Homura,Híbrido,186.0,,,2024.0,Manual,0.0,,5.0,Blanco
+799,35500,Nissan,Qashqai,1.5 EREV E-POWER 140KW TEKNA AUTO 190 5P,Híbrido,190.0,12488.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Gris
+800,8500,Toyota,Yaris,ECOVAN CITY 1.0 VVT-I 69 CV 3P,Gasolina,69.0,45570.0,Monovolumen,2019.0,Manual,0.0,,3.0,Blanco
+801,43600,Nissan,Qashqai,E-POWER 140 KW (190 CV) Tekna Premium,Híbrido,190.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Azul
+802,17990,Seat,Leon,1.0 eTSI 81kW DSG-7 S&S,Gasolina,110.0,61289.0,,2021.0,,0.0,,2.0,Blanco
+803,16590,Kia,Picanto,1.0 DPI CONCEPT 63CV 5P,Gasolina,63.0,3325.0,,2024.0,Manual,0.0,,5.0,Blanco
+804,11250,Peugeot,108,Allure Vti S&S Man 72CV,,,49239.0,,,,0.0,,2.0,Gris
+805,7250,Skoda,Citigo,1.0 60 CV 3p. Ambition,Gasolina,44.0,94271.0,Sedán / Berlina,2018.0,,0.0,,3.0,
+806,18490,Peugeot,3008,Allure Pack 1.2 PureTech 96KW S&S,,,98531.0,,2021.0,,0.0,,2.0,Gris
+807,29300,Opel,Corsa-e,Corsa -e Elegance-e BEV 50kWh 136 CV (100kW),Eléctrico,136.0,22822.0,,2020.0,Automático,0.0,,5.0,Rojo
+808,18900,Peugeot,2008,Allure Pack BlueHDI 81kW (110CV),Diesel,110.0,38663.0,Suv y 4x4,2022.0,Manual,0.0,,5.0,
+809,11250,Opel,Corsa,1.2T Elegance 100cv,Gasolina,100.0,86900.0,,2021.0,,0.0,,4.0,Rojo
+810,34900,Volvo,XC40,2.0 B3 CORE AUTO 5P,Gasolina,163.0,5.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Azul
+811,20000,Ford,Fiesta,1.0 ECOBOOST MHEV 92KW ACTIVE 125 5P,Híbrido,125.0,95.0,,2023.0,Manual,0.0,,5.0,Blanco
+812,29990,Peugeot,508 Hybrid,N508 5P GT PLUG-IN HYBRID 225 e-EAT8,Híbrido,,26866.0,,2023.0,Automático,0.0,,5.0,Negro
+813,30570,Mazda,CX-30,e-SKYACTIV G Homura,Híbrido,140.0,,Suv y 4x4,2024.0,Manual,0.0,,5.0,Gris
+814,32700,Peugeot,208,ACTIVE PACK ELECTRIQUE 136CV 5P,Eléctrico,136.0,11429.0,,2023.0,Automático,0.0,,5.0,Blanco
+815,33900,Fiat,Doblo,Doblò EDOBLÓ COMBI LAUNCH PACK BEV 136CV AUT,Eléctrico,136.0,10.0,Monovolumen,2023.0,Automático,0.0,,5.0,Azul
+816,10895,Citroen,C3,1.2 PURETECH 60KW FEEL 82CV 5P,Gasolina,82.0,103923.0,,2018.0,Manual,0.0,,5.0,Blanco
+817,35525,Nissan,X Trail,X-Trail 1.5 HEV E-POWER 204 N-CONNECTA 204CV 5P,Híbrido,204.0,10250.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Gris
+818,19990,Opel,Insignia,Sport Tourer 1.5D 122CV GS LINE,Diesel,122.0,11426.0,Familiar,2021.0,Manual,0.0,,5.0,Gris
+819,9900,Fiat,500,1.0 6v GSE Lounge 51 kW (70 CV),,,77977.0,,2020.0,,0.0,,2.0,Rojo
+820,30400,Kia,Niro,1.6 GDI PHEV DRIVE 183 5P,Híbrido,183.0,8200.0,,2024.0,Automático,0.0,,5.0,Gris
+821,15950,Citroen,C3 Aircross,BlueHDi 110 S&amp;S Feel Pack,Diesel,110.0,38000.0,Suv y 4x4,2023.0,,0.0,,5.0,Gris
+822,18500,Citroen,C5 Aircross,PURETECH 130 S&S FEEL,Gasolina,130.0,37000.0,Sedán / Berlina,2020.0,Manual,0.0,,5.0,Blanco
+823,20490,BMW,Serie 1,103 kW (140 CV),,,69292.0,,,,0.0,,2.0,Gris
+824,21990,Citroen,Jumpy,Talla M BlueHDi 100 SS 6v Control,Diesel,102.0,22710.0,Monovolumen,2020.0,Manual,0.0,,4.0,Blanco
+825,17990,Volkswagen,T-Cross,Advance 1.0 TSI 70 kW (95 CV),Gasolina,95.0,67579.0,Suv y 4x4,2022.0,,0.0,,5.0,Azul
+826,30900,Volkswagen,Tiguan,Life 1.5 TSI 110kW (150CV) DSG,Gasolina,150.0,22397.0,Suv y 4x4,2022.0,Automático 7 vls.,12.0,5.0,5.0,Blanco
+827,17990,Volkswagen,T-Cross,Advance 1.0 TSI 70 kW (95 CV),Gasolina,95.0,58177.0,Suv y 4x4,,,0.0,,5.0,Negro
+828,28700,Mazda,Mazda3,2.0 e-SKYACTIV-G 90KW EXCLUSIVE-LINE,Híbrido,121.0,,,2024.0,Manual,0.0,,5.0,Rojo
+829,32250,Nissan,Qashqai,1.5 EREV E-POWER 140KW N-CONNECTA AUTO 190 5P,Híbrido,190.0,39653.0,Suv y 4x4,2022.0,Automático,0.0,,5.0,Blanco
+830,22900,Fiat,Tipo,LIFE CITY 1.5 HYBRID 130CV AUT DCT,Híbrido,130.0,23588.0,,2022.0,Automático,0.0,,5.0,Blanco
+831,14950,BMW,Serie 3,318D F30 EFFICIENT DYNAMICS,Diesel,143.0,145000.0,Sedán / Berlina,2014.0,Manual 5 vls.,12.0,5.0,4.0,Negro
+832,18990,Kia,XCeed,1.5T GDI Concept 160cv,Gasolina,160.0,97000.0,Suv y 4x4,2022.0,,0.0,,2.0,Azul
+833,23900,Alfa Romeo,Giulia,2.2 Diesel 154 kW (210 CV) Veloce ATX Aut. 8 vel.,Diesel,209.0,91000.0,Sedán / Berlina,2017.0,Automático,0.0,,4.0,Azul
+834,16750,Opel,Crossland X,1.2 GS Line 96 kW (130 CV),,,31500.0,,2022.0,,0.0,,2.0,Azul
+835,22890,BMW,Serie 1,116d,,,60279.0,,,,0.0,,2.0,Azul
+836,30400,Kia,XCeed,1.5 MHEV iMT GT-line 103kW (140CV),Híbrido,140.0,,Suv y 4x4,2024.0,Manual,0.0,,5.0,Negro
+837,20490,Peugeot,308,SW BlueHDI 130 S&S Allure Pack 96 kW (130 CV),,,79034.0,,2022.0,,0.0,,2.0,Blanco
+838,8990,Ford,Fiesta,3p SYNC Edition 1.25 82 CV,Gasolina,82.0,83000.0,Sedán / Berlina,2015.0,,0.0,,3.0,Azul
+839,35500,Volvo,XC40,1.5 T4 PHEV RECHARGE CORE DCT 5P,Híbrido,211.0,18846.0,Suv y 4x4,2022.0,Automático,0.0,,5.0,Azul
+840,20750,BMW,X1,sDrive18i,,,147343.0,,2019.0,,0.0,,2.0,Azul
+841,17900,Seat,Ibiza,1.0 TSI 110CV  DSG XCELENCE 5P,Gasolina,110.0,58207.0,Pequeño o compacto,2021.0,Automático 6 vls.,12.0,5.0,5.0,Blanco
+842,25490,BMW,Serie 2,218d Cabrio 110 kW (150 CV),,,88000.0,,2018.0,,0.0,,2.0,Azul
+843,32500,Peugeot,5008,1.2 100KW eDCS6 Allure Pack,Híbrido,136.0,17492.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Gris
+844,19300,Hyundai,Tucson,1.6 DIESEL-MICROHIBRIDO 116CV MHEV 48VOLT KLASS 2WD,Híbrido,116.0,84000.0,,2020.0,Manual,0.0,,5.0,Blanco
+845,11590,Opel,Crossland X,Innovation 1.2 Turbo Start&amp;Stop 96 kW (130 CV),Gasolina,131.0,114522.0,Suv y 4x4,2019.0,,0.0,,5.0,Negro
+846,45990,Volvo,XC 60,XC60 T6 Recharge plug-in hybrid Core eAWD,Híbrido,,24327.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Beige
+847,37300,Opel,Astra Electric,5P ELECTRIC GS 54KWH 156CV (115KW),Eléctrico,156.0,20000.0,,2023.0,Automático,0.0,,,Blanco
+848,23490,Toyota,Corolla,125H Active Tech,Gasolina,98.0,57248.0,Sedán / Berlina,2023.0,Automático,0.0,,5.0,Gris
+849,19450,Jeep,Renegade,1.6 Multijet Limited 4x2 96 kW (130 CV),,,53000.0,,2022.0,,0.0,,2.0,Gris
+850,42990,Volvo,XC 60,XC60 B4 (gasolina) Plus Bright Auto,Híbrido,,27580.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Negro
+851,10390,Fiat,500,1.0 Hybrid Dolcevita 51 kW (70 CV),,,79182.0,,2021.0,,0.0,,2.0,Blanco
+852,25590,Kia,Ceed SW,Ceed Tourer 1.6 GDI PHEV EMOTION TOURER 141CV 5P,Híbrido,141.0,42534.0,Familiar,2022.0,Automático,0.0,,5.0,Negro
+853,64950,Ford,Mustang Mach-E,BEV 99KWH 294PS AUTO PREMIUM 294 5P,Eléctrico,294.0,10.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Gris
+854,32900,Nissan,Qashqai,E-POWER 140 KW (190 CV) N-Connecta,Híbrido,190.0,10.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Gris
+855,12990,Hyundai,i10,1.0 Klass 49 kW (67 CV),,,57487.0,,2022.0,,0.0,,2.0,Blanco
+856,18250,BMW,X1,sDrive16d,,,111768.0,,2018.0,,0.0,,2.0,Blanco
+857,26900,Peugeot,2008,N2008 Hybrid 136 eDCS6 Allure,Híbrido,136.0,10.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Negro
+858,17890,Citroen,C3 Aircross,BlueHDi 120 Shine Pack EAT6 88 kW (120 CV),,,28900.0,,2022.0,,0.0,,2.0,Gris
+859,39980,Kia,Sportage,1.6 T-GDI HEV TECH 4X2 AUTO 230 5P,Híbrido,230.0,3312.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Rojo
+860,23900,Audi,A6,3.0TDI QUATTRO 218cv,Diesel,218.0,250000.0,Familiar,2015.0,Automático 7 vls.,12.0,5.0,5.0,Negro
+861,45830,BYD,Seal U,87 kWh Design,Eléctrico,217.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Blanco
+862,10390,Fiat,500,1.0 6v GSE 52KW (70 CV) Lounge,,,67988.0,,2020.0,,0.0,,2.0,Rojo
+863,17390,Ford,Fiesta,1.0 EcoBoost MHEV ST-Line X 92 kW (125 CV),,,30154.0,,2023.0,,0.0,,2.0,
+864,23500,Peugeot,2008,ACTIVE PACK 1.2 PURETECH 100CV 5P,,100.0,17350.0,Suv y 4x4,2022.0,Manual,0.0,,5.0,Blanco
+865,10350,Fiat,500,1.0 6v GSE 52KW (70 CV) Lounge,,,65823.0,,2020.0,,0.0,,2.0,Verde
+866,29990,Mercedes,Clase E,220d AMG Line (194cv),,,212932.0,,2018.0,,0.0,,2.0,Blanco
+867,17990,Citroen,C4,BlueHDi 130 S&S Feel Pack EAT8 96 kW (130 CV),,,48900.0,,2021.0,,0.0,,2.0,Blanco
+868,22900,Peugeot,2008,Puretech 130 S&S EAT8 Allure,Gasolina,130.0,17382.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Gris
+869,16290,Opel,Corsa,Nuevo GS 1.2T XHL MT6 S/S 100 CV (74kW),Gasolina,,14487.0,,2024.0,Manual,0.0,,5.0,Gris
+870,26500,Mercedes,Clase A,200D AT 150CV AMG 5P,Diesel,150.0,120133.0,Sedán / Berlina,2020.0,Automático 7 vls.,12.0,5.0,5.0,Gris claro
+871,11800,Fiat,Tipo,5P 1.4 Fire 70kW (95CV) Pop,Gasolina,95.0,65774.0,,2020.0,Manual,0.0,,5.0,Blanco
+872,19900,Peugeot,Rifter,1.5HDI STANDAR 100CV ACTIVE 5P,Diesel,100.0,100034.0,Furgoneta / Camión,2019.0,Manual 5 vls.,12.0,5.0,5.0,Blanco
+873,69900,Ford,Mustang Mach-E,BEV 99KWH 487PS GT EXTENDED RANGE 487 5P,Eléctrico,487.0,160.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Blanco
+874,18990,Kia,XCeed,1.6PHEV Drive (141CV),,,97000.0,,2022.0,,0.0,,2.0,Bronce
+875,10250,Fiat,500,Lounge 1.0 Hybrid 52KW (70 CV),,,68965.0,,2021.0,,0.0,,2.0,Negro
+876,29900,Citroen,C5 Aircross,BlueHdi 96kW (130CV) S&S EAT8 Plus,Diesel,131.0,9030.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Azul
+877,17250,Mitsubishi,Space star,120 MPI Kaiteki,Gasolina,70.0,,,2024.0,Manual,0.0,,5.0,Blanco
+878,32490,Mercedes,Clase A,45 Mercedes-AMG 4Matic 280 kW (381 CV),,,79875.0,,2016.0,,0.0,,2.0,Blanco
+879,17690,Volkswagen,T-Cross,Advance 1.0 TSI 70 kW (95 CV),Gasolina,95.0,66127.0,Suv y 4x4,2022.0,,0.0,,5.0,Azul
+880,13000,Citroen,C4 Cactus,1.5 BLUEHDI 73KW FEEL 99 5P,Diesel,99.0,128119.0,,2018.0,Manual,0.0,,5.0,Rojo
+881,32990,Kia,EV6,BEV 77KWH 168KW AIR RWD AUTO 229 5P,Eléctrico,229.0,18955.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Gris
+882,19900,Ford,Puma,ST LINE 1.0 ECOBOOST MHEV 125 CV 5P,Híbrido,125.0,30770.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Azul
+883,15490,Ford,Focus,Berlina Trend+ 1.0 EcoBoost 92 kW (125 CV) Auto-Start-Stop,Gasolina,125.0,29500.0,Sedán / Berlina,2019.0,,0.0,,5.0,Blanco
+884,54900,Volvo,XC 60,XC60 2.0 D B4 PLUS BRIGHT AUTO 5P,Diesel,197.0,17081.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Gris
+885,49950,DS,DS 7 Crossback,7 E-TENSE 225 SAINT EXUPERY,Híbrido,224.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Negro
+886,7750,Peugeot,208,1.0 68cv,Gasolina,68.0,87000.0,Pequeño o compacto,2015.0,Manual,12.0,,,Gris
+887,24250,Ford,Puma,1.0 EcoBoost 125cv Titanium MHEV,Híbrido,125.0,,Suv y 4x4,2024.0,Manual,0.0,,5.0,Gris
+888,27900,Lynk & Co,01,1.5 PHEV 192KW 5P,Híbrido,261.0,55363.0,Suv y 4x4,2021.0,Automático,0.0,,5.0,Negro
+889,28990,Peugeot,5008,NSUV GT PureTech 130 SS 6 Vel. MAN,Gasolina,130.0,7749.0,Suv y 4x4,2022.0,Manual,0.0,,5.0,Negro
+890,23140,Toyota,Corolla,125H Active Tech 122cv,,,58600.0,,2023.0,,0.0,,2.0,Gris
+891,23990,BMW,Serie 1,118i,Gasolina,136.0,94557.0,Sedán / Berlina,2021.0,Automático,0.0,,5.0,Negro
+892,72500,Kia,EV9,GT-LINE AWD 384 CV 5P 7 PLAZAS,Eléctrico,384.0,3597.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Azul
+893,28990,Jeep,Compass,1.3 PHEV 240CV E6D AT EAWD T4 4xe eAWD Trailhawk,Híbrido,,45878.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,
+894,21505,Citroen,C3,1.5 BLUEHDI 75KW YOU! 102 5P,Diesel,102.0,15354.0,,2023.0,Manual,0.0,,5.0,Blanco
+895,24490,Jeep,Renegade,Limited 1.5 130cv MHEV,Híbrido,130.0,24014.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Blanco
+896,15990,Fiat,Panda,Cross 1.0 Hybrid 51kw (70CV),Híbrido,69.0,,,2024.0,Manual,0.0,,5.0,Rojo
+897,13600,Skoda,Fabia,FABIA 1.0 MPI 60CV AMBITIOM 5P,Gasolina,60.0,40650.0,Pequeño o compacto,2021.0,Manual 5 vls.,12.0,5.0,5.0,Blanco
+898,25293,Ford,Transit Connect,VAN,Diesel,102.0,,Monovolumen,2024.0,Manual,0.0,,,Blanco
+899,26590,Kia,e-Soul,150KW EMOTION 204 5P,Eléctrico,204.0,46170.0,,2021.0,Automático,0.0,,5.0,Rojo
+900,45450,Citroen,C5 Aircross Hybrid,1.6 HYBRID 225 SHINE PACK AUTO 225 5P,Híbrido,225.0,33550.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Gris
+901,22500,Nissan,Juke,DIG-T 84 kW (114 CV) 6M/T Acenta,Gasolina,114.0,,Suv y 4x4,2024.0,Manual,0.0,,5.0,Plateado
+902,32300,Nissan,Qashqai,E-POWER 140 KW (190 CV) Acenta,Híbrido,190.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Azul
+903,77600,Jeep,Wrangler,2.0 280kW (380CV) 8ATX E6D Rubicon,Híbrido,381.0,1.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Negro
+904,19990,Kia,Picanto,1.0 T-GDI X-LINE 100 5P,Gasolina,100.0,3761.0,,2023.0,Manual,0.0,,5.0,Negro
+905,18890,Seat,Ibiza,1.0 TSI 81kW (110CV) FR XL,Gasolina,110.0,24100.0,,2024.0,Manual,0.0,,5.0,Blanco
+906,12990,Fiat,500,1.0 Hybrid 51kw (70CV) Dolcevita,Híbrido,,34888.0,,2023.0,Manual,0.0,,3.0,Blanco
+907,25990,Peugeot,308,Nuevo 5P GT BlueHDi 130 SS EAT8,Diesel,130.0,16890.0,,2021.0,Automático,0.0,,5.0,Gris
+908,27805,Citroen,Berlingo,1.5 BLUEHDI 75KW TALLA M (CA) 102 4P,Diesel,102.0,13010.0,Monovolumen,2023.0,Manual,0.0,,4.0,Blanco
+909,18390,Seat,Leon,1.0 TSI Ecomotive DSG 5p. Style,Gasolina,115.0,53984.0,Sedán / Berlina,2021.0,Automático,0.0,,5.0,Blanco
+910,24300,Volkswagen,T-Cross,1.5 TSI 150CV AUT. ADVANCE 5P,Gasolina,150.0,25346.0,Suv y 4x4,2022.0,Automático,12.0,5.0,5.0,Beige
+911,45990,Mazda,CX-60,3.3 D MHEV 147KW EXCLUSIVE-LINE AUTO 200 5P,Híbrido,200.0,9754.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Azul
+912,44500,Peugeot,508,ALLURE PACK 1.6 HYBRID 225CV E-AUTO 5P,Híbrido,225.0,4443.0,,2023.0,Automático,0.0,,5.0,Plateado
+913,19500,Kia,Ceed,1.0 T-GDI 88KW DRIVE 120 5P,Gasolina,120.0,3937.0,,2023.0,Manual,0.0,,5.0,Blanco
+914,27490,Nissan,Juke,1.6 HYBRID HEV 105KW N-DESIGN SILVER AUT 143 5P,Híbrido,143.0,16040.0,Suv y 4x4,2022.0,Automático,0.0,,5.0,Gris
+915,34900,Kia,Sportage,1.6 T-GDI PHEV DRIVE 4WD AUTO 265CV 5P,Híbrido,265.0,15836.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Gris
+916,22990,Honda,CR-V,ELEGANCE NAVI 1.5IVTEC TURBO 173CV 5P,Gasolina,173.0,70314.0,Suv y 4x4,2020.0,Manual,0.0,,5.0,Plateado
+917,12990,Fiat,500,1.0 Hybrid 51kw (70CV) Dolcevita,Híbrido,,38244.0,,2023.0,Manual,0.0,,3.0,Azul
+918,9990,Renault,Twingo,SCe S&S Intens,Gasolina,70.0,68849.0,Pequeño o compacto,2019.0,,0.0,,5.0,Blanco
+919,16500,Opel,Zafira,2.0 CDTI 170CV EXCELLENCE AUT.  7 PLAZAS,Diesel,170.0,102579.0,Monovolumen,2018.0,Automático,12.0,,5.0,Azul
+920,52900,Fiat,E-Ulysse,100 kW (136cv) Batería 75kWh Talla M,Eléctrico,136.0,,Monovolumen,2024.0,Automático,0.0,,5.0,Gris
+921,26900,Mazda,MX-30,e-SKYACTIVE 107kW(145CV) Advantage Modern Conf.,Eléctrico,145.0,5000.0,Suv y 4x4,2023.0,Automático,36.0,5.0,5.0,Rojo
+922,16500,Citroen,C4,PureTech 130 SS 6v Feel,Gasolina,130.0,50000.0,,2021.0,Manual,0.0,,5.0,Blanco
+923,30490,Mercedes,GLC,GLC 350e 4Matic Coup&eacute; Exclusive,Híbrido,320.0,166256.0,Suv y 4x4,2017.0,Automático,0.0,,5.0,Negro
+924,38490,Volvo,XC 60,XC60 B4 (gasolina) Core Pro Auto,Híbrido,,21047.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Gris
+925,21990,Ford,Puma,ST-Line 1.0 EcoBoost MHEV 92 kW (125 CV),Híbrido,125.0,1581.0,Suv y 4x4,2022.0,,0.0,,5.0,Gris
+926,23450,Ford,Kuga,2.5 Duratec PHEV ST-LINE Auto 165kW (225CV),Híbrido,225.0,95343.0,Suv y 4x4,2022.0,,0.0,,2.0,Gris
+927,11690,Opel,Crossland X,1.2 T 12V 130 CV S&S Innovation,Gasolina,130.0,107994.0,Suv y 4x4,2019.0,,0.0,,5.0,Azul
+928,41900,Volkswagen,Golf,R 2.0 TSI 4Motion 235 kW (320 CV) DSG,,,39500.0,,2021.0,,0.0,,2.0,Azul
+929,15950,Audi,A4,2.0TDI 143CV,Diesel,143.0,113000.0,Sedán / Berlina,2013.0,Manual,12.0,5.0,5.0,Negro
+930,26150,Ford,Puma,1.0 ECOBOOST 114KW MHEV ST-LINE X 155 5P,Híbrido,155.0,10.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Gris
+931,36990,Volvo,XC 60,XC60 B4 (D) Bussines Plus Auto AWD,Híbrido,,77439.0,Suv y 4x4,2022.0,Automático,0.0,,5.0,Azul
+932,37500,Volvo,XC 60,XC60 2.0 D4 BUSINESS PLUS AUTO 5P,Diesel,190.0,53837.0,Suv y 4x4,2020.0,Automático,0.0,,5.0,Rojo
+933,16490,Seat,Arona,1.0 TSI Style 81 kW (110 CV),,,20638.0,,2021.0,,0.0,,2.0,Gris
+934,18900,Citroen,C4,PureTech 130 S&S Shine 96kw (130cv),Gasolina,130.0,90908.0,Sedán / Berlina,2021.0,,0.0,,2.0,
+935,22250,Seat,Ateca,1.5 EcoTSI 110 KW (150 CV) DSG-7 Style,Gasolina,150.0,50489.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Azul
+936,16490,Opel,Corsa,Nuevo GS 1.2T XHL MT6 S.S 100 CV (74kW),Gasolina,,3901.0,,2024.0,Manual,0.0,,5.0,Rojo
+937,27885,Citroen,Berlingo,ELECTRIC FEEL 67CV 5P MANUAL,Eléctrico,67.0,18790.0,Monovolumen,2018.0,Automático,0.0,,5.0,Blanco
+938,30990,Mazda,CX-5,2.0 G 121KW MHEV CENTER-LINE PLUS 165 5P,Híbrido,165.0,7342.0,Suv y 4x4,2024.0,Manual,0.0,,5.0,Blanco
+939,30490,Audi,A6,Advanced 2.0 TDI quattro S tro Avant 190cv,,,106227.0,,,,0.0,,2.0,Negro
+940,23900,Fiat,124 Spider,,Gasolina,140.0,,Cabrio,2018.0,Manual,0.0,,2.0,Rojo
+941,20700,Fiat,500X,1.0 Firefly T3 88KW (120 CV) Cult,Gasolina,120.0,10.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Blanco
+942,13990,Fiat,500,1.0 HYBRID DOLCEVITA 70 3P,Híbrido,70.0,21398.0,,2022.0,Manual,0.0,,,Blanco
+943,11800,BMW,X1,2.0 SDRIVE16D 116 5P,Diesel,116.0,165328.0,,2013.0,Manual,0.0,,5.0,Granate
+944,21500,Mitsubishi,Colt,100T Kaiteki,Gasolina,91.0,,,2024.0,Manual,0.0,,5.0,Gris
+945,36500,Nissan,Qashqai,1.3 DIG-T MHEV 103KW N-DESIGN 140 5P,Híbrido,140.0,1128.0,Suv y 4x4,2024.0,Manual,0.0,,5.0,Azul
+946,17490,Renault,Grand Scenic,Zen Energy TCe 118 kW (160 CV) 7 plazas,Gasolina,160.0,169000.0,Monovolumen,2018.0,,0.0,,5.0,Bronce
+947,10690,Fiat,500,1.0 Hybrid Dolcevita 51 kW (70 CV),,,66398.0,,2021.0,,0.0,,2.0,Blanco
+948,23990,Jeep,Renegade,Trailhaw 1.3PHEV 240CV,,,92209.0,,2022.0,,0.0,,2.0,Blanco
+949,30400,Kia,XCeed,1.5 MHEV iMT GT-line 103kW (140CV),Híbrido,140.0,,Suv y 4x4,2024.0,Manual,0.0,,5.0,Negro
+950,33800,Volvo,EX30,"Plus, Single Motor Extended Range, Eléctrico",Eléctrico,,8942.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Amarillo
+951,7490,Fiat,500,1.2 8v 69 CV Lounge,Gasolina,69.0,89549.0,Pequeño o compacto,2014.0,,0.0,,2.0,
+952,10590,Fiat,500,1.0 6v GSE 52KW (70 CV) Lounge,Gasolina,70.0,61285.0,Pequeño o compacto,2020.0,,0.0,,2.0,Azul
+953,11790,Fiat,500,1.0 Hybrid Dolcevita 51 kW (70 CV),,,58500.0,,,,0.0,,2.0,Gris
+954,34500,Seat,Ateca,FR 2.0 TDI 150 CV S/S DSG 5P,Diesel,150.0,29305.0,Suv y 4x4,2022.0,Automático,0.0,,5.0,Gris
+955,24490,BMW,Serie 5,520d (184cv),,,149592.0,,2018.0,,0.0,,2.0,Azul
+956,73990,Jeep,Wrangler,2.0 380CV 8ATX E6D Sahara,Híbrido,381.0,,Suv y 4x4,2022.0,Automático,0.0,,5.0,Gris
+957,13250,Renault,Clio,Intens SCe 49 kW (67 CV),Gasolina,67.0,20507.0,Sedán / Berlina,2022.0,,0.0,,2.0,Blanco
+958,17800,Opel,Corsa,GS 1.2T XHL MT6 S/S 100CV (74KW),Gasolina,,12300.0,,2023.0,Manual,0.0,,,Rojo
+959,25100,Ford,Tourneo Courier,1.0 ECOBOOST 92KW TREND 125CV 5P,Gasolina,125.0,10.0,,2024.0,Manual,0.0,,5.0,Verde
+960,26200,Nissan,Qashqai,ACENTA 1.3 DIG-T MHEV 140 CV 5P,Híbrido,140.0,5462.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Blanco
+961,29990,Mazda,MX-30,(2022) e-SKYACTIV EV 145CV AT 2WD ADVENTAGE MODERN CONFIDENCE,Eléctrico,145.0,1.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Blanco
+962,10250,Fiat,500,1.0 6v GSE 52KW (70 CV) Lounge,Gasolina,70.0,73139.0,Pequeño o compacto,2020.0,,0.0,,2.0,Azul
+963,31700,Kia,XCeed,1.5 MHEV GT-line 103kW (140CV)) DCT,Híbrido,140.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Blanco
+964,35500,Skoda,Octavia,RS FAMILIAR 2.0 TDI 200 CV DSG 5P,Diesel,200.0,33311.0,Familiar,2023.0,Automático,0.0,,5.0,Blanco
+965,19890,Fiat,500X,1.0 Firefly T3 88 kW (120 CV) Sport,Gasolina,120.0,68734.0,Suv y 4x4,2022.0,,0.0,,5.0,Gris
+966,36550,Kia,Sportage,1.6 T-GDi HEV 171kW (230CV) Drive 4x2,Híbrido,229.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Blanco
+967,15250,Ford,Fiesta,5p Trend 1.1 Ti-VCT 55 kW (75 CV),Gasolina,75.0,22894.0,Sedán / Berlina,2023.0,,0.0,,5.0,Azul
+968,10690,Fiat,500,Dolcevita 1.0 Hybrid 51 kW (70 CV),Gasolina,69.0,75389.0,Sedán / Berlina,2021.0,,0.0,,3.0,Blanco
+969,26500,Peugeot,3008,N3008 ALLURE PACK 1.2 PURETECH 130 CV 5P,,130.0,31480.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Blanco
+970,25790,DS,DS 3 Crossback,1.5 BLUEHDI 96KW PERFORMANCE LINE AUTO 130 5P,Diesel,130.0,10.0,Suv y 4x4,2022.0,Automático,0.0,,5.0,Gris
+971,25990,Volkswagen,T-Roc,Life 1.5 TSI 110 kW (150 CV) DSG,,,46998.0,,,,0.0,,2.0,Blanco
+972,24450,Seat,Ateca,1.5 TSI 110kW DSG S&S Style XL,,,72419.0,,2023.0,,0.0,,2.0,Negro
+973,24950,Hyundai,Tucson,1.6 TGDI MAXX 150CV 5P,Gasolina,150.0,42306.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Bronce
+974,11890,Fiat,500,1.0 Hybrid Dolcevita 51 kW (70 CV),,,54000.0,,2021.0,,0.0,,2.0,Negro
+975,50900,Mazda,CX-60,e-Skyactiv D MHEV 147kw 8AT Takumi Com-P,Diesel,254.0,12000.0,Suv y 4x4,2023.0,Automático 8 vls.,36.0,5.0,5.0,Beige
+976,39700,Kia,e-Niro,150kW (204CV) Winter Edition,Eléctrico,204.0,,,2024.0,Automático,0.0,,5.0,Blanco
+977,10490,Fiat,500,1.0 Hybrid Dolcevita 51 kW (70 CV),,,75605.0,,2021.0,,0.0,,2.0,Blanco
+978,24750,Audi,Q2,Advanced 30 TDI 85 kW (116 CV),Diesel,116.0,94899.0,Suv y 4x4,2022.0,,0.0,,5.0,Negro
+979,37100,Nissan,X Trail,X-Trail 7pl 1.5T VC 120kW MHEV 4x2 N-Connecta,Híbrido,163.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Negro
+980,33600,Volvo,EX30,"Plus, Single Motor Extended Range, Eléctrico",Eléctrico,,10091.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Amarillo
+981,15000,Citroen,C3 Aircross,1.2 PURETECH 81KW FEEL 110 5P,Gasolina,110.0,35991.0,Suv y 4x4,2020.0,Manual,0.0,,5.0,Blanco
+982,25300,Cupra,Formentor,2.0 TDI 110kW (150 CV)  5P,Diesel,150.0,87792.0,Sedán / Berlina,2023.0,Manual 6 vls.,36.0,5.0,5.0,Blanco
+983,16490,Opel,Corsa,Nuevo GS 1.2T XHL MT6 S.S 100 CV (74kW),Gasolina,,8058.0,,2024.0,Manual,0.0,,5.0,Negro
+984,52900,Volvo,XC 60,XC60 2.0 B4 D R-DESIGN AUTO 4WD 5P,Diesel,197.0,40464.0,Suv y 4x4,2022.0,Automático,0.0,,5.0,Negro
+985,23450,Opel,Astra,1.2T XHL 110cv Edition,Gasolina,110.0,,Familiar,2024.0,Manual,0.0,,5.0,
+986,12500,Peugeot,2008,1.2 PURETECH 130 S&S ALLURE 130CV 5P,Gasolina,130.0,82362.0,Suv y 4x4,2019.0,Manual,0.0,,5.0,Blanco
+987,31500,Ford,Kuga,2.5 PHEV ST-LINE X AUTO 225 5P,Híbrido,225.0,41490.0,Suv y 4x4,2020.0,Automático,0.0,,5.0,Blanco
+988,16450,Mini,Cooper,5 Puertas One D 70 kW (95 CV),,,66000.0,,2018.0,,0.0,,2.0,Rojo
+989,12990,Fiat,500,1.0 Hybrid 51kw (70CV) Dolcevita,Híbrido,,34695.0,,2023.0,Manual,0.0,,3.0,Azul
+990,13450,Citroen,C3 Aircross,PureTech 110 S&amp;S Feel,Gasolina,110.0,47274.0,Suv y 4x4,2021.0,,0.0,,5.0,Gris
+991,22900,Mitsubishi,Asx,KAITEKI 1.3 130T MHEV 140 CV 5P,Híbrido,140.0,13690.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Blanco
+992,29490,BMW,X1,sDrive18i Msport,Gasolina,140.0,58554.0,Suv y 4x4,2021.0,Automático,0.0,,5.0,Negro
+993,26900,Kia,XCeed,1.5 MHEV iMT Drive 103kW (140CV) DCT,Híbrido,140.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Blanco
+994,19255,Toyota,Corolla,Familiar 1.8 HYBRID ACTIVE TECH E-CVT 122 5P,Híbrido,122.0,62454.0,Familiar,2019.0,Automático,0.0,,5.0,Blanco
+995,12590,Citroen,C3,1.2 PURETECH SHINE 83 5P,Gasolina,83.0,50377.0,,2021.0,Manual,0.0,,5.0,Negro
+996,37500,BMW,X5,3.0D XDRIVE 258CV AT8 5P,Diesel,258.0,41748.0,Suv y 4x4,2017.0,Automático 8 vls.,12.0,5.0,5.0,Negro
+997,39500,Peugeot,5008,1.2 100KW GT eDCS6,Híbrido,136.0,4000.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Azul
+998,23990,Jeep,Renegade,Limited 1.5 130cv MHEV,Híbrido,,23339.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Azul
+999,17250,Citroen,Berlingo,Combi BlueHDi 100 Talla XL Feel 75 kW (100 CV),,,117000.0,,2019.0,,0.0,,2.0,Negro
+1000,15900,Peugeot,3008,PureTech 130 S&S Allure 96 kW (130 CV),Gasolina,130.0,65000.0,Suv y 4x4,,Manual,0.0,,5.0,Gris
+1001,19900,Peugeot,208,HYBRID 100 eDCS6 Active,Híbrido,100.0,10.0,,2024.0,Automático,0.0,,5.0,Blanco
+1002,30990,Mazda,CX-5,2.0 G 121KW MHEV CENTER-LINE PLUS 165 5P,Híbrido,165.0,7342.0,Suv y 4x4,2024.0,Manual,0.0,,5.0,Blanco
+1003,37700,Nissan,Qashqai,DIG-T 116kW mHEV CVT N-Design,Híbrido,157.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Gris
+1004,17250,Volkswagen,Polo,Life 1.0 TSI 70 kW (95 CV),,,52000.0,,2023.0,,0.0,,2.0,Gris
+1005,39550,Ford,Kuga,2.5 PHEV ST-LINE X AUTO 225 5P,Híbrido,225.0,19648.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Rojo
+1006,16300,Kia,Stonic,CONCEPT PLUS 1.2 DPI 84 CV 5P,Gasolina,84.0,26420.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Gris
+1007,49600,Nissan,Ariya,5p 87 kWh e-4ORCE Advance CAR. 22kW + Te,Eléctrico,306.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Gris
+1008,26900,Fiat,500X,1.6 MultiJet 97KW (130 CV) S&S Sport,Diesel,130.0,10.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Gris
+1009,16490,Ford,Focus,1.5 Ecoblue 88kW Active SB,,,85691.0,,2022.0,,0.0,,2.0,Azul
+1010,27490,Ford,Tourneo Connect,,,,56000.0,,2023.0,,0.0,,2.0,
+1011,25300,MG,HS,1.5 Turbo GDI Luxury 119 kW (162 CV),Gasolina,162.0,16000.0,Suv y 4x4,,Manual,0.0,,5.0,Blanco
+1012,16150,Peugeot,208,Active PureTech 100 S&amp;S,Gasolina,102.0,10567.0,Sedán / Berlina,2024.0,,0.0,,5.0,Amarillo
+1013,14990,BMW,Serie 3,316d Touring,Diesel,116.0,160000.0,Sedán / Berlina,2017.0,,0.0,,5.0,Azul
+1014,25950,BMW,X3,3.0 XDRIVE M,Diesel,258.0,161000.0,Suv y 4x4,2017.0,Automático 8 vls.,0.0,5.0,5.0,Negro
+1015,20600,Mazda,Mazda2,e-SKYACTIV G 66kW (90CV) Homura,Híbrido,90.0,10.0,Pequeño o compacto,2024.0,Manual 6 vls.,36.0,5.0,5.0,Nacar
+1016,22450,Jeep,Compass,Limited 1.3 150 CV,,,83469.0,,2022.0,,0.0,,2.0,Azul
+1017,12150,Fiat,500,Dolcevita 1.0 Hybrid 51 kW (70 CV),Gasolina,69.0,15912.0,Sedán / Berlina,2022.0,,0.0,,3.0,Blanco
+1018,25890,Seat,Ateca,1.5 TSI 110kW St&Sp Style XXL,Gasolina,150.0,19100.0,Suv y 4x4,2024.0,Manual,0.0,,5.0,Gris
+1019,22900,Citroen,C3 Aircross,PURETECH 110 S&S 6v RIP CURL,Gasolina,110.0,15.0,Sedán / Berlina,2024.0,Manual,0.0,,5.0,Gris
+1020,22290,Peugeot,2008,SUV GT Puretech 130 SS 6 Vel. MAN.,Gasolina,130.0,27232.0,Suv y 4x4,2023.0,Manual,0.0,,5.0,Rojo
+1021,24900,Kia,XCeed,1.6 GDI PHEV EMOTION 141 5P,Híbrido,141.0,19738.0,Suv y 4x4,2022.0,Automático,0.0,,5.0,Rojo
+1022,12250,Volkswagen,Caddy,1.6 tdi combi pro,Diesel,75.0,159000.0,Monovolumen,2012.0,Manual 6 vls.,12.0,5.0,4.0,Rojo
+1023,24990,Kia,Ceed,1.0 T-GDi 74kW (100CV) Style Edition,Gasolina,100.0,,,2024.0,Manual,0.0,,5.0,Gris
+1024,32490,Kia,Niro,1.6 GDI PHEV DRIVE 183 5P,Híbrido,183.0,19967.0,,2023.0,Automático,0.0,,5.0,Gris
+1025,38490,Volvo,XC 60,XC60 B4 Momentum (D) Auto,Híbrido,,44000.0,Suv y 4x4,2022.0,Automático,0.0,,5.0,Azul
+1026,16250,Peugeot,3008,PureTech Turbo 130 S&S Active,Gasolina,131.0,134438.0,Suv y 4x4,2020.0,,0.0,,5.0,Gris
+1027,35900,Volvo,XC40,1.5 T2 MOMENTUM PRO AUTO 5P,,129.0,39431.0,Suv y 4x4,2021.0,Automático,0.0,,5.0,Blanco
+1028,22900,Honda,HR V,HR-V TURBO SPORT 1.5 VTEC 182 CV CVT 5P,Gasolina,182.0,61647.0,Suv y 4x4,2020.0,Automático,0.0,,5.0,Plateado
+1029,21990,Audi,A7,Sportback SPORTBACK AMBIENTE 1.8TSI 190CV S-TRONIC,Gasolina,190.0,99958.0,Sedán / Berlina,2016.0,Automático,0.0,,5.0,Negro
+1030,10490,Fiat,500,Dolcevita 1.0 Hybrid 51 kW (70 CV),Gasolina,69.0,74125.0,Sedán / Berlina,2021.0,,0.0,,3.0,Blanco
+1031,10690,Fiat,500,Dolcevita 1.0 Hybrid 51 kW (70 CV),Gasolina,69.0,74036.0,Sedán / Berlina,2021.0,,0.0,,3.0,Blanco
+1032,34490,BMW,X3,xDrive30d 195 kW (265 CV),,,133500.0,,2017.0,,0.0,,5.0,Blanco
+1033,20000,Ford,Fiesta,1.0 ECOBOOST MHEV 92KW ACTIVE 125 5P,Híbrido,125.0,95.0,,2023.0,Manual,0.0,,5.0,Blanco
+1034,24450,Cupra,León,1.4 e-Hybrid DSG 180 kW (245 CV),,,108000.0,,2022.0,,0.0,,2.0,Gris
+1035,22900,Volkswagen,Golf,LIFE 1.5 TSI 130CV 5P,,130.0,66078.0,Suv y 4x4,2020.0,Manual,0.0,,5.0,Gris
+1036,29180,MG,ZS EV,Luxury Std Range,Eléctrico,176.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Blanco
+1037,14500,Opel,Corsa,1.2T 74kW (100CV) Edition 5P,Gasolina,100.0,23478.0,Pequeño o compacto,2021.0,Manual 6 vls.,12.0,5.0,5.0,Blanco
+1038,10490,Fiat,500,1.0 HYBRID 52KW,Gasolina,70.0,78229.0,,2021.0,,0.0,,2.0,Blanco
+1039,16250,Citroen,C3 Aircross,BlueHDi 110 S&amp;S Feel Pack,Diesel,110.0,29000.0,Suv y 4x4,2023.0,,0.0,,5.0,Gris
+1040,10250,Fiat,500,1.0 6v GSE 52KW (70 CV) Lounge,Gasolina,70.0,72845.0,Pequeño o compacto,2020.0,,0.0,,2.0,Azul
+1041,18250,Seat,Arona,1.0 TSI S&S Xperience XS 81 kW (110 CV),,,47811.0,,,,0.0,,2.0,Blanco
+1042,27990,BYD,Dolphin,Comfort,Eléctrico,204.0,,,2024.0,Automático,0.0,,5.0,Blanco
+1043,29499,Citroen,Berlingo,1.5 BLUEHDI TALLA XL MAX 130 5P,Diesel,130.0,1.0,Monovolumen,2024.0,Manual,0.0,,5.0,Verde
+1044,19350,Fiat,Tipo,HB DIESEL 97kW (130CV) MY23,Diesel,130.0,15.0,Sedán / Berlina,2024.0,Manual,0.0,,5.0,Blanco
+1045,16500,Mini,Cooper,1.5 DIESEL 116CV 5P,Diesel,116.0,79725.0,Suv y 4x4,2017.0,Manual,0.0,,5.0,Blanco
+1046,14790,Seat,Arona,1.0 TSI 81 kW (110 CV) Style,Gasolina,110.0,63216.0,Suv y 4x4,2021.0,,0.0,,5.0,Azul
+1047,16890,Volkswagen,T-Cross,1.0 TSI 81kW (110CV) DSG,,,88547.0,,2021.0,,0.0,,2.0,Naranja
+1048,30300,Alfa Romeo,Tonale,1.6 DS 130 CV SUPER  FWD AUT. 5P,Diesel,130.0,40300.0,Suv y 4x4,2023.0,Automático 6 vls.,36.0,5.0,5.0,Blanco
+1049,31990,Fiat,600,e La prima 54kwh 115kw (156cv),Eléctrico,156.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Verde
+1050,12150,Fiat,500,Dolcevita 1.0 Hybrid 52KW (70 CV),Gasolina,70.0,49000.0,Cabrio,2021.0,,0.0,,2.0,Granate
+1051,24500,Fiat,Tipo,LIFE CITY 1.5 HYBRID 130CV AUT DCT,Híbrido,130.0,30.0,,2022.0,Automático,0.0,,5.0,Blanco
+1052,11950,Volkswagen,Passat,1.6 TDI BLUEMOTION 105CV VARIANT,Diesel,105.0,184000.0,Familiar,2014.0,Manual 6 vls.,12.0,5.0,5.0,Marrón
+1053,26400,Peugeot,308,ACTIVE PACK 1.5 BLUEHDI 130CV 5P S&S EAT8,Diesel,130.0,27833.0,,2023.0,Automático,0.0,,5.0,Blanco
+1054,34900,Jeep,Renegade,LIMITED PHEV 190CV,Híbrido,,6500.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Gris
+1055,21950,Audi,A6 Allroad Quattro,3.0TDI 245CV,Diesel,245.0,199000.0,Familiar,2012.0,Automático,12.0,,5.0,Blanco
+1056,20950,Fiat,500X,1.3 Firefly T4 110 kW (150 CV) DCT Sport,Gasolina,150.0,68698.0,Suv y 4x4,2022.0,Automático,0.0,,5.0,Gris
+1057,22289,Mazda,Mazda2 Hybrid,1.5 85 kW (116 CV) CVT Centre-line,Híbrido,115.0,,,2024.0,Automático,0.0,,5.0,Gris
+1058,17300,Kia,Stonic,1.0 84CV EDITON PACK EMOTION 5P,Gasolina,84.0,31620.0,Suv y 4x4,2023.0,Manual 6 vls.,36.0,5.0,5.0,Gris
+1059,19250,Opel,Corsa,1.2T XHT 74kW (100CV) Auto,,,38153.0,,,,0.0,,2.0,Azul
+1060,62980,Mazda,CX-80,2.5 e-SKYACTIV PHEV 327CV 8AT AWD HOMURA PLUS,Híbrido,327.0,6.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Rojo
+1061,40520,Citroen,Spacetourer,Plus Talla M BlueHDi 180 S&S EAT8,Diesel,179.0,,Monovolumen,2024.0,Automático,0.0,,5.0,Negro
+1062,16300,Ford,Ecosport,1.0T ECOBOOST 92KW ST LINE 125 5P,Gasolina,125.0,29856.0,Suv y 4x4,2021.0,Manual,0.0,,5.0,Rojo
+1063,19490,Audi,A1,S LINE 1.0 25 TFSI 95CV SPORTBACK 5P,,95.0,36716.0,Suv y 4x4,2019.0,Manual,0.0,,5.0,Blanco
+1064,15200,Citroen,C3,Turbo 100 You,Gasolina,100.0,,,2024.0,Manual,0.0,,5.0,Blanco
+1065,17490,Seat,Leon,1.0tsi 110cv Style XL,Gasolina,110.0,88000.0,,2023.0,,0.0,,2.0,Blanco
+1066,39500,Alfa Romeo,Tonale,VELOCE 1.3 PHEV 280CV AUTO 4WD 5P,Híbrido,280.0,20.0,Suv y 4x4,2023.0,Automático,0.0,,5.0,Rojo
+1067,16490,Peugeot,2008,PureTech Turbo 130 S&S Allure,Gasolina,130.0,55000.0,Suv y 4x4,2021.0,,0.0,,5.0,
+1068,27900,Volkswagen,Golf,VIII LIFE 1.5 TSI 150 CV MAN 5P,Gasolina,130.0,29876.0,,2022.0,Manual,0.0,,5.0,Negro
+1069,19490,Mazda,CX-3,(2021) e-Skyactiv G 2.0 90KW (122 CV) MT 2WD Evolution,,,66047.0,Suv y 4x4,2022.0,Manual,0.0,,5.0,Blanco
+1070,24990,Kia,Niro,E-NIRO Emotion ( Long Range) 204CV,Eléctrico,204.0,77100.0,,2022.0,Automático,0.0,,5.0,Blanco
+1071,26999,Peugeot,308,Hybrid 225 GT Pack e-EAT8 165 kW (225 CV),Híbrido,225.0,29000.0,,,Automático,0.0,,5.0,Verde
+1072,45000,Mazda,CX-60,e-Skyactiv PHEV AWD Exclusive-Line,Eléctrico,327.0,10.0,Suv y 4x4,2024.0,Automático 8 vls.,36.0,5.0,5.0,Blanco
+1073,27580,Mazda,CX-30,2.5L e-SKYACT G MHEV 103kW Prime-Line MT,Híbrido,140.0,,Suv y 4x4,2024.0,Manual,0.0,,5.0,Blanco
+1074,21090,Citroen,C4 X,1.2 PURETECH 100 S&S FEEL 102 4P,Gasolina,102.0,1000.0,Sedán / Berlina,2023.0,Manual,0.0,,4.0,Gris
+1075,37990,Cupra,Ateca,2.0 TSI 221kW (300CV) 4Drive DSG VZ,Gasolina,300.0,19800.0,Suv y 4x4,2024.0,Automático,0.0,,5.0,Blanco
+1076,16150,Peugeot,208,Active PureTech 100 S&amp;S,Gasolina,102.0,10132.0,Sedán / Berlina,2024.0,,0.0,,5.0,Blanco
+1077,6990,Fiat,Tipo,1.4 T-Jet Gasolina/GLP Easy 88kW (120CV),,,200795.0,,2018.0,,0.0,,2.0,
+1078,13990,Opel,Corsa,1.2 XEL 55KW EDITION 75CV 5P,Gasolina,75.0,21590.0,,2022.0,Manual,0.0,,5.0,Blanco
+1079,15300,Citroen,C4 Spacetourer,1.2  FEEL 130CV 5P,Gasolina,130.0,99155.0,Monovolumen,2018.0,Manual 6 vls.,12.0,5.0,5.0,Blanco
+1080,15190,Citroen,C3,Nuevo Puretech 83 SS Shine,Gasolina,83.0,15690.0,,2023.0,Manual,0.0,,5.0,Blanco
+1081,21600,Ford,Puma,1.0 EcoBoost 125cv ST-Line MHEV 5P,Híbrido,125.0,32682.0,Sedán / Berlina,2023.0,Manual 6 vls.,36.0,5.0,5.0,Azul
+1082,26900,Volkswagen,Multivan,2.0 TDI 180cv 4mot Highline Edition BMT,Diesel,179.0,190000.0,Monovolumen,2014.0,Manual 6 vls.,12.0,,5.0,Negro
+1083,11590,Opel,Crossland X,1.2 T 12V 130 CV S&S Innovation,Gasolina,131.0,115734.0,Suv y 4x4,2019.0,,0.0,,5.0,Azul
+1084,61419,Mazda,CX-60,e-Skyactiv PHEV AWD Homura,Híbrido,327.0,,Suv y 4x4,2024.0,Automático,0.0,,5.0,Rojo
+1085,26879,DS,DS 3 Crossback,PureTech 155 GRAND CHIC AUTO,Gasolina,155.0,62835.0,Suv y 4x4,2019.0,Automático,0.0,,5.0,Amarillo
+1086,32990,Mazda,CX-5,2.0 G 121KW MHEV ADVANTAGE 2WD 165 5P,Híbrido,165.0,11002.0,Suv y 4x4,2024.0,Manual,0.0,,5.0,Gris
+1087,25900,Citroen,C4,Hybrid 136 e-DCS6 Plus,Híbrido,136.0,10.0,,2024.0,Automático,0.0,,5.0,Blanco
+1088,20100,Peugeot,208,Puretech 100 Allure,Gasolina,100.0,10.0,,2024.0,Manual,0.0,,5.0,Rojo
+1089,32500,BMW,X3,2.0D XDRIVE AUT.  190CV XLINE 5P,Diesel,190.0,93276.0,Suv y 4x4,2019.0,Automático,12.0,5.0,5.0,Blanco
+1090,44990,Volvo,XC 90,XC90 B5 (D) Business Plus AWD 7 asientos,Híbrido,,76008.0,Suv y 4x4,2020.0,Automático,0.0,,5.0,Azul
+1091,16990,Citroen,C3 Aircross,BlueHDi 88kW (120CV) EAT6 Shine Pack,,,59720.0,,2022.0,,0.0,,2.0,
+1092,6990,Fiat,Tipo,1.4 16v 120cv gasolina,Bifuel,120.0,219000.0,Sedán / Berlina,2018.0,,0.0,,5.0,
+1093,18990,Fiat,500,ICon eléctrico 118cv,Eléctrico,118.0,31020.0,Pequeño o compacto,2022.0,Automático,0.0,,2.0,Negro
+1094,15900,Fiat,500L,1.4 16V  95CV  RED 5P,Gasolina,95.0,33616.0,Suv y 4x4,2022.0,Manual 6 vls.,12.0,5.0,5.0,Rojo
+1095,12690,Hyundai,i10,1.0 MPI 49 kW (66 CV) Klass,Gasolina,66.0,66690.0,Sedán / Berlina,2022.0,,0.0,,5.0,Gris
+1096,27490,Peugeot,5008,NSUV  Allure Pack PureTech 130 S&S 6 Vel. MAN,,,13489.0,Suv y 4x4,2024.0,Manual,0.0,,5.0,Gris
+1097,19450,BMW,X2,sDrive 16d,Diesel,116.0,132538.0,Suv y 4x4,2019.0,,0.0,,2.0,Naranja
+1098,21000,Mazda,Mazda2 Hybrid,1.5 HYBRID  116CV AUT.  CENTER LINE 5P,Híbrido,116.0,10.0,Pequeño o compacto,2024.0,Automático,36.0,5.0,5.0,Blanco
+1099,10190,Kia,Picanto,1.0 DPI 49KW (67CV) CONCEPT,,,55874.0,,2021.0,Manual,0.0,,5.0,Gris

@@ -1,0 +1,14 @@
+# Secretos: nunca subir claves
+.streamlit/secrets.toml
+Access_Key_Unsplash.txt
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+chromedriver*
